@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kind="class" prot="public" abstract="yes">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</compoundname>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedType</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeType</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Projected.ProjectedType</derivedcompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a18cba2022b3606000acc36d73bbbafa4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract string</type>
+        <definition>abstract string OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="72" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4d28e873c902562c74116d8f5f43222d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>abstract string</type>
+        <definition>abstract string OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.FullName</definition>
+        <argsstring></argsstring>
+        <name>FullName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="77" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a00a7db7733eb15ed030117a53cd96652" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref></type>
+        <definition>abstract DefinedType OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Namespace</definition>
+        <argsstring></argsstring>
+        <name>Namespace</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="83" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4a8343cb3f9eb64c617b59c32bec1442" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.GenericParameters</definition>
+        <argsstring></argsstring>
+        <name>GenericParameters</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="88" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a7713eb8b8a64e0280ccd485bf90557e3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.BaseTypes</definition>
+        <argsstring></argsstring>
+        <name>BaseTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="94" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa76e2bda86674cf1db6327af02a721d2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Interfaces</definition>
+        <argsstring></argsstring>
+        <name>Interfaces</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="105" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aec2186ea935408f56c99397cb935ef6d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref></type>
+        <definition>DefinedType OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="111" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9e821631632373295d2bbf1b16568148" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.ParentTypes</definition>
+        <argsstring></argsstring>
+        <name>ParentTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="117" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac17868c23bd6366117d03b7c47ebda07" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>abstract List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>abstract List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.ChildTypes</definition>
+        <argsstring></argsstring>
+        <name>ChildTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="128" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a6eafb542a971c5964598565c1d4a2762" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.DerivedTypes</definition>
+        <argsstring></argsstring>
+        <name>DerivedTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="134" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a84442e7c70f5b9f591789f47cb142d69" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>List&lt;DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Attributes</definition>
+        <argsstring></argsstring>
+        <name>Attributes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="145" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="146" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ab9183c23be8905d78ae0afd38e283fb8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>string</type>
+        <definition>string OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.TopicId</definition>
+        <argsstring></argsstring>
+        <name>TopicId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="152" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="153" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a46dd7d3559b2378161ac4187908b3f0e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_reference_content" kindref="compound">ReferenceContent</ref></type>
+        <definition>ReferenceContent OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Content</definition>
+        <argsstring></argsstring>
+        <name>Content</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="163" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="164" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa7fa4357d924644fd20b68e88ce5ebd6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kindref="compound">DefinedMember</ref> &gt;</type>
+        <definition>List&lt;DefinedMember&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Members</definition>
+        <argsstring></argsstring>
+        <name>Members</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="174" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="175" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9bd699d09394920e34f865ba4007df33" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsAbstract</definition>
+        <argsstring></argsstring>
+        <name>IsAbstract</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="195" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="196" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a486357ccd1025c37ef20033864ef0cd7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsAttribute</definition>
+        <argsstring></argsstring>
+        <name>IsAttribute</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="200" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="201" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a52a964961fc5417f81ab52f9f3baf2b1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsClass</definition>
+        <argsstring></argsstring>
+        <name>IsClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="205" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="206" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9c2e1b35a30e507f9a832d75015433a8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsDelegate</definition>
+        <argsstring></argsstring>
+        <name>IsDelegate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="210" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="211" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae1f6d830a605dc02469075f12e17beb9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsEnum</definition>
+        <argsstring></argsstring>
+        <name>IsEnum</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="215" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="216" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a788ced455ceca97f4588b13293df8436" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsGeneric</definition>
+        <argsstring></argsstring>
+        <name>IsGeneric</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="220" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="221" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4ddaca0cbf2909cd561a37c0fa6e1008" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsInterface</definition>
+        <argsstring></argsstring>
+        <name>IsInterface</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="225" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="226" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a09b91f1bdfe8bf46c22825659214a51b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsPublic</definition>
+        <argsstring></argsstring>
+        <name>IsPublic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="230" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="231" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a794d3605671fd92a102ea5aac6b7e7e2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsReferenceType</definition>
+        <argsstring></argsstring>
+        <name>IsReferenceType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="235" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="236" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a3433b12a1d2e23d4c3b10e30b6a042fc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsSealed</definition>
+        <argsstring></argsstring>
+        <name>IsSealed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="240" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="241" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4e2655eb9e92a952147180a1090424eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsStruct</definition>
+        <argsstring></argsstring>
+        <name>IsStruct</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="245" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="246" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aaa2a84ac306f5ec003418ae679acc7cc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.IsValueType</definition>
+        <argsstring></argsstring>
+        <name>IsValueType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="250" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="251" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a85103670e1fbbd2d025d092f15b736e8" prot="private" static="yes" mutable="no">
+        <type>Dictionary&lt; string, <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>Dictionary&lt;string, DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.KnownTypes</definition>
+        <argsstring></argsstring>
+        <name>KnownTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="264" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="264" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a440e19befc5453ed3a82fb497c494baa" prot="protected" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kindref="compound">DefinedMember</ref> &gt;</type>
+        <definition>List&lt;DefinedMember&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType._members</definition>
+        <argsstring></argsstring>
+        <name>_members</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="265" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="265" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8d1b88aebe4ab9ea889895452740c884" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.DefinedType</definition>
+        <argsstring>()</argsstring>
+        <name>DefinedType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="37" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8fdb6e4c78a545b5139bd76f14e5987d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.DefinedType</definition>
+        <argsstring>(ObservableType managedType)</argsstring>
+        <name>DefinedType</name>
+        <param>
+          <type>ObservableType</type>
+          <declname>managedType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="42" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="42" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a2e5fc4dea6e67af0ec77b4ebbbd5bd27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.DefinedType</definition>
+        <argsstring>(DoxygenType doxygenType)</argsstring>
+        <name>DefinedType</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxygenType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="46" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a70cf4b3b5952027189308c4d85f0be00" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.DefinedType</definition>
+        <argsstring>(string namespaceFullName)</argsstring>
+        <name>DefinedType</name>
+        <param>
+          <type>string</type>
+          <declname>namespaceFullName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="51" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="51" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac053af6a9e2dc7d1a53443633b56b5f3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.DefinedType</definition>
+        <argsstring>(ObservableType managedType, DoxygenType doxygenType)</argsstring>
+        <name>DefinedType</name>
+        <param>
+          <type>ObservableType</type>
+          <declname>managedType</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxygenType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="55" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="55" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a55c348a86103f55e52f625a6d3b4b8f9" prot="protected" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>abstract void</type>
+        <definition>abstract void OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.InitializeMembers</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeMembers</name>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a8a102bec1674530beae776f878183782">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct_1a2c2399689faefa5feba847c9147fa674">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface_1a28defb2389be2fde2cf3891fd9a3b7e2">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate_1aa1317d3c923768db1a53c16904796c85">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class_1acb92cb228c3a123515e0b2122818487c">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a30e641f9818246d08afc57f707bb6a09">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum_1ad661bc499e8422c1dad2e9d00e8cea88">InitializeMembers</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1acbfe9501a91a71869ea7fbd17967850d">InitializeMembers</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="59" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae0c8402fdb49f53303400a4313afa626" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>void</type>
+        <definition>virtual void OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType.Initialize</definition>
+        <argsstring>(DoxygenType doxygenType)</argsstring>
+        <name>Initialize</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxygenType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="62" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="62" bodyend="65"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides the base implementation for representing a type. </para>    </briefdescription>
+    <detaileddescription>
+<para>The <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> class represents a type that&apos;s defined in pure native code (C/C++, IDL, WIN32), pure managed code (C#, VB), or Windows Runtime (WinRT) code (RIDL).</para><para>Use the following derived classes to represent types from the various programming environments:</para><para><itemizedlist>
+<listitem>
+<para>DoxygenType: Pure native types </para></listitem>
+<listitem>
+<para>ManagedType: Pure managed types </para></listitem>
+<listitem>
+<para><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type" kindref="compound">ProjectedType</ref>: Windows Runtime (WinRT) types </para></listitem>
+</itemizedlist>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="67">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type"/>
+        <childnode refid="57" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="58">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type"/>
+        <childnode refid="57" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="63">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedInterface</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="60">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedClass</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="65">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedStruct</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="70">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeInterface</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_interface"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="68">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeClass</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_class"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="73">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Projected.ProjectedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type"/>
+        <childnode refid="57" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="57">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type"/>
+      </node>
+      <node id="61">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedDelegate</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="59">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedAttribute</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_attribute"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="64">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedNamespace</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="62">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedEnum</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="66">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.ProjectedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type"/>
+        <childnode refid="58" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="69">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeEnum</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_enum"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="72">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeStruct</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_struct"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="71">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeNamespace</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_namespace"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" line="33" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedType.cs" bodystart="32" bodyend="266"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a440e19befc5453ed3a82fb497c494baa" prot="protected" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>_members</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a84442e7c70f5b9f591789f47cb142d69" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Attributes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aec2186ea935408f56c99397cb935ef6d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>BaseType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a7713eb8b8a64e0280ccd485bf90557e3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>BaseTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac17868c23bd6366117d03b7c47ebda07" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>ChildTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a46dd7d3559b2378161ac4187908b3f0e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Content</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8d1b88aebe4ab9ea889895452740c884" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8fdb6e4c78a545b5139bd76f14e5987d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a2e5fc4dea6e67af0ec77b4ebbbd5bd27" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a70cf4b3b5952027189308c4d85f0be00" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac053af6a9e2dc7d1a53443633b56b5f3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a6eafb542a971c5964598565c1d4a2762" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>DerivedTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4d28e873c902562c74116d8f5f43222d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>FullName</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4a8343cb3f9eb64c617b59c32bec1442" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>GenericParameters</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae0c8402fdb49f53303400a4313afa626" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a55c348a86103f55e52f625a6d3b4b8f9" prot="protected" virt="pure-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>InitializeMembers</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa76e2bda86674cf1db6327af02a721d2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Interfaces</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9bd699d09394920e34f865ba4007df33" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsAbstract</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a486357ccd1025c37ef20033864ef0cd7" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsAttribute</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a52a964961fc5417f81ab52f9f3baf2b1" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsClass</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9c2e1b35a30e507f9a832d75015433a8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsDelegate</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae1f6d830a605dc02469075f12e17beb9" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsEnum</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a788ced455ceca97f4588b13293df8436" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsGeneric</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4ddaca0cbf2909cd561a37c0fa6e1008" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsInterface</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a09b91f1bdfe8bf46c22825659214a51b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsPublic</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a794d3605671fd92a102ea5aac6b7e7e2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsReferenceType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a3433b12a1d2e23d4c3b10e30b6a042fc" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsSealed</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4e2655eb9e92a952147180a1090424eb" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsStruct</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aaa2a84ac306f5ec003418ae679acc7cc" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>IsValueType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a85103670e1fbbd2d025d092f15b736e8" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>KnownTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa7fa4357d924644fd20b68e88ce5ebd6" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Members</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a18cba2022b3606000acc36d73bbbafa4" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Name</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a00a7db7733eb15ed030117a53cd96652" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>Namespace</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9e821631632373295d2bbf1b16568148" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>ParentTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ab9183c23be8905d78ae0afd38e283fb8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</scope><name>TopicId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</compoundname>
+    <basecompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedMethod</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a24a104b48812326e0cd517214a9dfcbd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref></type>
+        <definition>override DefinedType OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.Type</definition>
+        <argsstring></argsstring>
+        <name>Type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="17" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a423e57fa7cdc88ce74d3ca8d7249fd51" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override bool</type>
+        <definition>override bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.IsPublic</definition>
+        <argsstring></argsstring>
+        <name>IsPublic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="25" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a3d4b928c0bc75de00f2ded65ac3db27d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override bool</type>
+        <definition>override bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.IsPrivate</definition>
+        <argsstring></argsstring>
+        <name>IsPrivate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="33" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a40464a828fdad67853d9efc7f5437972" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override bool</type>
+        <definition>override bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.IsStatic</definition>
+        <argsstring></argsstring>
+        <name>IsStatic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="41" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a5561409f94150cf88b6a80a7af7fd94a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>ConstructorInfo</type>
+        <definition>ConstructorInfo OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.UnderlyingConstructorInfo</definition>
+        <argsstring></argsstring>
+        <name>UnderlyingConstructorInfo</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="71" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a811272f3f985c14f97a2a6df2d6fa25f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.Constructor</definition>
+        <argsstring>(ConstructorInfo ctorInfo, ManagedType parentType)</argsstring>
+        <name>Constructor</name>
+        <param>
+          <type>ConstructorInfo</type>
+          <declname>ctorInfo</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type" kindref="compound">ManagedType</ref></type>
+          <declname>parentType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="12" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="12" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1ab2150e01a86357bfcc36a380d04cb12e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override string</type>
+        <definition>override string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor.ToString</definition>
+        <argsstring>()</argsstring>
+        <name>ToString</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="78" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="78" bodyend="82"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="8">
+        <label>ManagedMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member"/>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>DefinedMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member"/>
+      </node>
+      <node id="6">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>ManagedMethod</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method"/>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="14">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type"/>
+        <childnode refid="15" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>ManagedMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="14" relation="usage">
+          <edgelabel>_type</edgelabel>
+        </childnode>
+      </node>
+      <node id="13">
+        <label>DefinedMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member"/>
+      </node>
+      <node id="10">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.Constructor</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor"/>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>ManagedMethod</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method"/>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>DefinedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="11" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" bodystart="10" bodyend="87"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1ab09f6fa97236321f45457a356b7077a3" prot="protected" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>_parameters</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1ad9c7a9ed8bf70485268db9bd92c263a2" prot="protected" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>_type</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a811272f3f985c14f97a2a6df2d6fa25f" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Constructor</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a60d727ea997e668bc64f637f6a7a4009" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Content</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1a0311ff2e34c297bc2a09c99be171aead" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>CreateMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a75bb54608b2543f60ffc04960d61edf5" prot="public" virt="non-virtual" ambiguityscope="OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedMember."><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>CreateMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aeafc4675a475338de621d9d3e02b8afc" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>DefinedMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a5e7468e595d840d84da9af18ddbe480c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>DefinedMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a8aba164cdfbe53c050ab7f61ea5ac729" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aae7915f602a1d96292bba8aef0232341" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a3d4b928c0bc75de00f2ded65ac3db27d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>IsPrivate</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a423e57fa7cdc88ce74d3ca8d7249fd51" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>IsPublic</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a40464a828fdad67853d9efc7f5437972" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>IsStatic</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1a4cf23fad935d64a7dd08eaa3778468f1" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>ManagedMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1ae65395f172dab8f4ad5ef220d1a21a61" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>ManagedMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a31be52c8a33d6fbf5857a4b7d6ecc96d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Name</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a1d2d2b9ad60f107cf29b0d5998670a70" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Parameters</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aeb652f37c4242f2ce4ac8c9fcb97cff2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>ParentType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1ab712c2d331b163f321d096e5b7d235bb" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>ReturnValue</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a4585faa41aec3c49050d5ab7aab16a91" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>TopicId</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1ab2150e01a86357bfcc36a380d04cb12e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>ToString</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a24a104b48812326e0cd517214a9dfcbd" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>Type</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a5561409f94150cf88b6a80a7af7fd94a" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>UnderlyingConstructorInfo</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1a8a08eb0e3d07a7a0279947f40990e229" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>UnderlyingMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a97d75c0026d7beaf203fb4180bb48cb0" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</scope><name>UnderlyingMethodInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

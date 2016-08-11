@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.8">
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Compound</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1a77f49ebb7c9d77f6e887e9c9ed323ddf" kind="property"><name>MemberElements</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1af40dcbf56e40613d0fff255e01f13c10" kind="property"><name>Members</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1abf5e6fe78ad71cae4986ce1ea01be710" kind="property"><name>SourceFile</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1afd12e26742a34204e741d7067c57ced1" kind="property"><name>refid</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1ad47b57eb437f41cb8ca66e86d8f4922c" kind="property"><name>kind</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1a8df3ad0773a59b0aca205bf64dbf5421" kind="property"><name>name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1a4e9831e26372ce200ef8d63cf748789c" kind="property"><name>IsWrlType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1a9873424cb91f8101211d384cf679d4c0" kind="function"><name>Compound</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound_1ae8c3fd835309651378333b7604484d11" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Constructor</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor_1a0b3c402f6789ca098b20278279e4572f" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor_1a60ddb34a9647da88e77894d11bbdb189" kind="property"><name>Parameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor_1a1a66463c1c6a8495bfe1d5c493c1a874" kind="function"><name>Constructor</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor_1a444ea178c0e3ee68b6609baafb2c74b2" kind="function"><name>Constructor</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor_1ab48889a6a03dc4e3de9e36f3e0c58015" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a24a104b48812326e0cd517214a9dfcbd" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a423e57fa7cdc88ce74d3ca8d7249fd51" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a3d4b928c0bc75de00f2ded65ac3db27d" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a40464a828fdad67853d9efc7f5437972" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a5561409f94150cf88b6a80a7af7fd94a" kind="property"><name>UnderlyingConstructorInfo</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1a811272f3f985c14f97a2a6df2d6fa25f" kind="function"><name>Constructor</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor_1ab2150e01a86357bfcc36a380d04cb12e" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_event" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedEvent</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_event_1a7310828ea822d9a90c4f96d760459aa7" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_event_1adf146cd5e52e325ae7afb5797d5f534a" kind="function"><name>DefinedEvent</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_event_1ae95580f46f56cb30e4b4a924b6d3a107" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_field" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedField</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_field_1aece6b6c5bfc5ce22ecc0e299518dc477" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_field_1ab04361bfed7f9556ca217a569d76e292" kind="function"><name>DefinedField</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_field_1aa4868bb7c7142950b457d29c9f1c7108" kind="function"><name>DefinedField</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_field_1a39e349e6319d273af9bee711827106e8" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedMember</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1ac1ab14058e837d51610eb9ec2050ae0c" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a31be52c8a33d6fbf5857a4b7d6ecc96d" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a4585faa41aec3c49050d5ab7aab16a91" kind="property"><name>TopicId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aeb652f37c4242f2ce4ac8c9fcb97cff2" kind="property"><name>ParentType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a60d727ea997e668bc64f637f6a7a4009" kind="property"><name>Content</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a663fab81ef9cebd4233b39314e8cf5c0" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a5fdb7cd3777597d10c8fa5c3e52963da" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1af51caae1e9472957840fe869a8a57296" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aeafc4675a475338de621d9d3e02b8afc" kind="function"><name>DefinedMember</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a5e7468e595d840d84da9af18ddbe480c" kind="function"><name>DefinedMember</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a17eb5b01b9276541918b37b2366abd72" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a8aba164cdfbe53c050ab7f61ea5ac729" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aae7915f602a1d96292bba8aef0232341" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a75bb54608b2543f60ffc04960d61edf5" kind="function"><name>CreateMember</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedMethod</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1aec61b5dc88190a5cf22aedd7535cbe13" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1a570acefc82020f7c0e24ad9c9d99cdeb" kind="property"><name>IsAbstract</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1ac9164edb64ef7879ce8ac61a4ee60e9a" kind="property"><name>IsVirtual</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1adb410e123d94d6f883231af122e0d0f6" kind="property"><name>Parameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1a4298ab7c5e0e8f5d563e2254dd72061f" kind="function"><name>DefinedMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1ae2e90dbc59c5987a39eeffd73c8c2948" kind="function"><name>DefinedMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method_1a51916407427d9a5f5a5e31fc76aa9a5d" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ae0ed808c98729bea09e57a9582d30a9e" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1aeef50b5a1504dcbdbb045d8e087efec5" kind="property"><name>ParentMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a6423b2c6913917f4484f140a5f5e4f84" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1faf008318dacb00bee5a4aeab2368df" kind="property"><name>IsArray</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a438309abf548df34bd235854cba09838" kind="property"><name>IsInParam</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a764aef8bba3837b1345c21080cd102b7" kind="property"><name>IsOutParam</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ab561e1ec146a729710acd56d712bb565" kind="property"><name>IsOptional</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a634a24d3c358d609baf96b0e1e42b2fb" kind="property"><name>IsReturnValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1adb11a45265f0bd6a17dc8c0d16780c09" kind="property"><name>IsReference</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ab2ffdf5d212f12a5c8561cc05deff7e0" kind="property"><name>IsPointer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1aee5b5c6b4a4a684f1ca2def33d43ee72" kind="property"><name>Position</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a5e6b14c6ec813fbba8ab8d5c96434e8e" kind="function"><name>DefinedParameter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a7d62447933f561a1a031bf6673636f3d" kind="function"><name>DefinedParameter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1d6594d745320d032f098cef7bb94d17" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1fcbe6c7ebd517379600538b739fc9c2" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedProperty</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property_1aa84e3bfcc9742831fa80d1c9e9fba9e6" kind="property"><name>IsReadOnly</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property_1ac22dcc060ab91029a3fb160ba0db7caf" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property_1ae8362d91941dfa03a3d5ad46aaa172d0" kind="function"><name>DefinedProperty</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property_1a1d6da589f566058f1bd45d292a42be74" kind="function"><name>DefinedProperty</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property_1a475879f7c4a57fb2ca0ee395549ed06d" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a18cba2022b3606000acc36d73bbbafa4" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4d28e873c902562c74116d8f5f43222d" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a00a7db7733eb15ed030117a53cd96652" kind="property"><name>Namespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4a8343cb3f9eb64c617b59c32bec1442" kind="property"><name>GenericParameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a7713eb8b8a64e0280ccd485bf90557e3" kind="property"><name>BaseTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa76e2bda86674cf1db6327af02a721d2" kind="property"><name>Interfaces</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aec2186ea935408f56c99397cb935ef6d" kind="property"><name>BaseType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9e821631632373295d2bbf1b16568148" kind="property"><name>ParentTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac17868c23bd6366117d03b7c47ebda07" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a6eafb542a971c5964598565c1d4a2762" kind="property"><name>DerivedTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a84442e7c70f5b9f591789f47cb142d69" kind="property"><name>Attributes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ab9183c23be8905d78ae0afd38e283fb8" kind="property"><name>TopicId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a46dd7d3559b2378161ac4187908b3f0e" kind="property"><name>Content</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa7fa4357d924644fd20b68e88ce5ebd6" kind="property"><name>Members</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9bd699d09394920e34f865ba4007df33" kind="property"><name>IsAbstract</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a486357ccd1025c37ef20033864ef0cd7" kind="property"><name>IsAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a52a964961fc5417f81ab52f9f3baf2b1" kind="property"><name>IsClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9c2e1b35a30e507f9a832d75015433a8" kind="property"><name>IsDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae1f6d830a605dc02469075f12e17beb9" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a788ced455ceca97f4588b13293df8436" kind="property"><name>IsGeneric</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4ddaca0cbf2909cd561a37c0fa6e1008" kind="property"><name>IsInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a09b91f1bdfe8bf46c22825659214a51b" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a794d3605671fd92a102ea5aac6b7e7e2" kind="property"><name>IsReferenceType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a3433b12a1d2e23d4c3b10e30b6a042fc" kind="property"><name>IsSealed</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4e2655eb9e92a952147180a1090424eb" kind="property"><name>IsStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aaa2a84ac306f5ec003418ae679acc7cc" kind="property"><name>IsValueType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a85103670e1fbbd2d025d092f15b736e8" kind="variable"><name>KnownTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a440e19befc5453ed3a82fb497c494baa" kind="variable"><name>_members</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8d1b88aebe4ab9ea889895452740c884" kind="function"><name>DefinedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8fdb6e4c78a545b5139bd76f14e5987d" kind="function"><name>DefinedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a2e5fc4dea6e67af0ec77b4ebbbd5bd27" kind="function"><name>DefinedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a70cf4b3b5952027189308c4d85f0be00" kind="function"><name>DefinedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac053af6a9e2dc7d1a53443633b56b5f3" kind="function"><name>DefinedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a55c348a86103f55e52f625a6d3b4b8f9" kind="function"><name>InitializeMembers</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae0c8402fdb49f53303400a4313afa626" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Description</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1a32881824e3b2037be389dc5915af9645" kind="property"><name>Paragraphs</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1a68e620a41155ee95bc74bcc2772215f5" kind="property"><name>title</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1ad35e96020f26b4dc6f4effd4139360bb" kind="property"><name>Desc</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1a0e4815c29dae56c06e64593b27d99d95" kind="function"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1aeac0a5492eaef8fc1c16c46bf823f854" kind="function"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1aa2199962ebfab4ef75e756d72375653b" kind="function"><name>ResolveLinks</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1abb2a8e45cbee76742521b4dea26240ed" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description_1ae68bbc1efcd4c8ea2f0acebd4380c948" kind="function"><name>ParseParagraphs</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Deserializers::Deserializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1af1abbcae07addcc498536464bffc757c" kind="property"><name>InputFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1a6df5639be395c9bfff2670cf942b3064" kind="function"><name>Deserializer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1ae70b83a91dc3e10be85c7de0146cad48" kind="function"><name>Deserialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1a98e1493c164324c9cba7c4e5cd51a965" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::DoxType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a2cc3e62b05bd993f3586ff0bd6e69e30" kind="property"><name>TopicId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1afccdecad6996c1a241312278d009d9a6" kind="property"><name>BriefDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a8263597ea8dc7fab4632ae8e459853af" kind="property"><name>DetailedDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a0e4d84f39b9581b46782aee7e080c33d" kind="property"><name>ParentType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1afffa722cd73f9d2018d96d2782e1b965" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a8ce12b3961b40c8dc16e9e266d97a0fe" kind="property"><name>BaseCompoundRefStrings</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a3900e24c5b97be000d9f5268d29b6ae6" kind="property"><name>DerivedCompoundRefStrings</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a4659c956f9fc02d6603b8ff63deb051f" kind="property"><name>BaseTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab9b5009d99b7eed7d798f1b5e456da4f" kind="property"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1aab4f26db5946f9295a55c99a17c52264" kind="property"><name>Html</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab041ac4bcd3487e5fec0883f919fced3" kind="property"><name>Markdown</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1abf133769de05868e8842f41946b7178d" kind="property"><name>MarkdownTemplate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a7c8437fd1c5268fd3042984a54d02bf2" kind="property"><name>ContainingFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a3eab45f4055b24c3765e4d1eaeefb3e0" kind="property"><name>OutputRootFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a59ad6813164f2ec8ccf1fbf3985fd1cb" kind="property"><name>OutputFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a1ab110913dccac64d8c325b0ae57c0d9" kind="property"><name>FullPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a80b2fc7e9d6e69fddd58ec1ae2a6148d" kind="property"><name>RelativePath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1aa6a546bf339175649f00421c48e9352e" kind="property"><name>PathFragment</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a6172d5740ddc9858e615db8554776552" kind="property"><name>SiteConfigPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab2ba78bb16de11253df3f8ef18ec69b6" kind="property"><name>SiteConfigReferenceRootPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab2649ce90eb8c856472e58302a67ebb3" kind="property"><name>SourceFilePath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a57cbe5406fde4fdf0883473201c8ae56" kind="property"><name>id</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a791b934a254479ef31a2773dbdb36647" kind="property"><name>kind</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1add85466fa40e04b8e1562b641dd28289" kind="property"><name>prot</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1afd4ea65cca38889a2015cd92f9479fde" kind="property"><name>briefdescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a0a9c6388d38dd93be817cbd65762e188" kind="property"><name>detaileddescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a1ec51032d1d5893873fbf302df4cea35" kind="property"><name>compoundname</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a3ec4482e5fd4e5a04095f3d2b0e25e2c" kind="property"><name>IsDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1aac6347185988449bf3f1b394f98da0ff" kind="property"><name>IsAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a0ec63472411e2b38bca1f174f3bc27eb" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a31069f55f18d46c2ec734c4ba1f9bb3c" kind="property"><name>IsInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a43ea817e6646ed1887c1eaffcd606e95" kind="property"><name>IsStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a27cb7da6e685a851dc171ddf40fba925" kind="property"><name>IsClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a8786cfc78f7db04053697d394defd45a" kind="property"><name>IsNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab9887dca370d577d24865e964bf3b010" kind="property"><name>IsRootNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a05ce7780c18fb50c140fa6c8ed3c3056" kind="property"><name>IsGeneric</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a88658890e67254998ca54ec9d874ab90" kind="property"><name>Properties</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ad12950193455d5f0069bd96813131d22" kind="property"><name>HasProperties</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1aea394a5b2661529e7d30a556b1b9ec54" kind="property"><name>Constructors</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a501536bfcdbde91d542012aba07ede14" kind="property"><name>Methods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a413308edb17234d7be0f813558acb7b4" kind="property"><name>HasMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a21b2ec8d4755eefd1d86512713d5cda9" kind="property"><name>HasConstructors</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ae33c3a6703528af8b38f13a52135a50f" kind="property"><name>Events</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a603287bf387d078b18f242fa567b9183" kind="property"><name>HasEvents</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a754a92dfc38197405e94a853ceb3620d" kind="property"><name>Fields</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a5eadcca6a165219e04b3f2e13163a29d" kind="property"><name>HasFields</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1abaf93c9278b6aa8357b23dbaaece3cca" kind="property"><name>EnumValues</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab6f9a08959090af59a88f8a666e63647" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab0390410da891aefa7642af5a782c764" kind="property"><name>RawName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a74fe8cf11a9d3b11b45d584771566968" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1af4d37e598c5187a5b05b79a56c13d58e" kind="property"><name>ParentNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1aeeb4367d83f79045142d877f24e4cbb3" kind="property"><name>ParentNamespaceFull</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1afdd89f35c40658f239c4c0b9596a8480" kind="property"><name>ParentNamespaceFullCsStyle</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a067851889fe737506f281f52b14fc1a3" kind="property"><name>MemberDefs</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a1289704cc6e4a3444df054e95ca10f55" kind="variable"><name>_baseTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a5bae576271ff9609515dd74e4e93eccb" kind="variable"><name>_childTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1af77305dbdce148c4fb3ba051bf7dd002" kind="function"><name>DoxType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a4da9a7d62125b723a82f2875ad40dd23" kind="function"><name>DoxType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a846cff11216cb3d15a370c40bec9f710" kind="function"><name>DoxType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a4a151353d9943b53936a453a7e475d74" kind="function"><name>ResolveContent</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a04dc454e3e72796ada0ee88f527fdd03" kind="function"><name>FindLinks</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1adeb294c3267f136d3fd1695eb30ef110" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1ab8d3866247003911240b57413a04db89" kind="function"><name>BuildTree</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a4e4689b340ed1d297451575d7c67b8d2" kind="function"><name>SerializeToHtml</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a3cab6a87cb6ebd3f7484599b493e6d4f" kind="function"><name>SerializeToMarkdown</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a01769987f4921195cbc35f7575a52f4b" kind="function"><name>SerializeToMarkdown</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1a476b7dc0a165064ede6d7e9c0cb804ad" kind="function"><name>GetSiteConfigPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type_1afd1189aefee634fb1350b92284ecf748" kind="function"><name>GetSiteConfigPath2</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_doxygen_deserializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Deserializers::DoxygenDeserializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_doxygen_deserializer_1afa3f8096420da9c75517e6a3c0a019f6" kind="function"><name>DoxygenDeserializer</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::DoxygenType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a5c5e65f8f7ca84126141d7cdfc0da0be" kind="property"><name>TopicId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a1ff8d6c6c714f0247f702d469d3b0340" kind="property"><name>BriefDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ac2593b8954515556549392ab8da9e8fe" kind="property"><name>DetailedDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1abd88a92fc2c79f848626b63d2cab1f08" kind="property"><name>ParentType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a6feab229a8c2d01fcfa7ce4ed92f2929" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ad178d38e872a8ef46c85694d0568e1df" kind="property"><name>BaseCompoundRefStrings</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a67e76a6c09e6bb76ecf6c3767894c022" kind="property"><name>DerivedCompoundRefStrings</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a8d767a7ca815c0e929b89275059c90f9" kind="property"><name>BaseTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ab1176eafad064469ce3b888c1d2c15e8" kind="property"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a1d9db06d442601f6b92723974ee30476" kind="property"><name>ContainingFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ad83b1ace96a04fd75e2af47e006e4996" kind="property"><name>OutputRootFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a7c1dcddbef3b9271c4977976af09baec" kind="property"><name>OutputFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1aa132709a919dc2a1c363c99405f18d99" kind="property"><name>FullPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a91edde4d83286df34c959acd1a394249" kind="property"><name>RelativePath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a3ff3ada39e5b5f3174d364de0d25a02e" kind="property"><name>PathFragment</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1adf70e7d02a5c05be3a4d071831ff294d" kind="property"><name>SiteConfigPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a26e7127b541bae3298ee82f526c8e2bb" kind="property"><name>SiteConfigReferenceRootPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a604dc1d0d6518a92ff99c4e84dbfa757" kind="property"><name>SourceFilePath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a1ff50b0d3ef16de0667412999a900a83" kind="property"><name>id</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1aa55cfe320c7f5487efb1ee30755e8d38" kind="property"><name>kind</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1aab3df65189b1b383e5183082c5ee833e" kind="property"><name>prot</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ab140462fb5c48c0be85151c5ef5d1537" kind="property"><name>briefdescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a6a97fe71f81e9bd46fa8547555120f92" kind="property"><name>detaileddescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a1760845bc092ef1dcedf8af8115a0e96" kind="property"><name>compoundname</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a869dd6bb50b8f673b1803b7b170012a2" kind="property"><name>IsDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a46c7930af4f72602b70578489676767f" kind="property"><name>IsAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a6abc6a7d36ffe08434c8aa091d23b23a" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a71ab189691c91ba413077e149c97e39e" kind="property"><name>IsInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a6f682df742fd96fc357f3c6100ba9b28" kind="property"><name>IsStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a0b543df5008df586e635dc841edce39a" kind="property"><name>IsClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ab4ef78a5107200066b5c2eed61366dcb" kind="property"><name>IsNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a202cf3b51ca7cc9476376167929cd28c" kind="property"><name>IsRootNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a75d5a3f915f4e1e07327ed2cd2ffd4d2" kind="property"><name>IsGeneric</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1af0e9cec9c6692ce31b76e270a1546689" kind="property"><name>Properties</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a80b7399d1e59278fcc249d5564eb88da" kind="property"><name>HasProperties</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a02750f3aa89ee1a8857d000ef8c6501f" kind="property"><name>Constructors</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a203cb3de91bfba8cda44282d3b58fae4" kind="property"><name>Methods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a9dda8035eafb253b6a06ed5be408e37e" kind="property"><name>HasMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1abb2df63280158423bbc29801c10bb0d6" kind="property"><name>HasConstructors</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a42bf2f310130629447ce22878c64972a" kind="property"><name>Events</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a85307d919525194455b23af78668fde2" kind="property"><name>HasEvents</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a5c9dc44342d7076c04f0003ffe18271d" kind="property"><name>Fields</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a8004d545e2cf2d9174de3a270b8a80df" kind="property"><name>HasFields</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ab6083afa4e300e15c345bb7235dc9a44" kind="property"><name>EnumValues</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a48a36833cf1a1bb35e884bacffc8d0e4" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a5412155d357b6ab157020810a3909742" kind="property"><name>RawName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a75a80382da9e61cd2efa458dca1ceb4b" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a4dfe8fa0c604e758f43c1be58a9b2ee4" kind="property"><name>ParentNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ab9b8538cfb4be6e3370ea03f3f6c66fe" kind="property"><name>ParentNamespaceFull</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1aca1880f0526c3f60759dc212cd19779f" kind="property"><name>ParentNamespaceFullCsStyle</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ae80629c0a9c1131d207088c3848ae431" kind="property"><name>MemberDefs</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a38c8ba41ad2a8c9fe99238a86f6abd53" kind="variable"><name>_baseTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a47377294fb1481287f237c0a1d2d5cac" kind="variable"><name>_childTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ac8186970c8dd3f8f3646a0d1ba033372" kind="function"><name>DoxygenType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a0218682a7fe5aa3b26a4e2a5dacced4a" kind="function"><name>DoxygenType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1aee8b72f79ebfd3d3d8963fcda7e22fa8" kind="function"><name>ResolveContent</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1ae84dd2d5bdb44de4fa70a5709476d1f7" kind="function"><name>FindLinks</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a8329a7a3da85fb00ffd04026e4f2524b" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a064e6e6429a6a384d87032425be9a27f" kind="function"><name>BuildTree</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1a158fdce57d7856c7f9dda200dc79c62d" kind="function"><name>GetSiteConfigPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type_1aff8d2e7f6e40c695d3c07f19a480c999" kind="function"><name>GetSiteConfigPath2</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::EnumValue</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value_1ab20a496face03583685dae7b24445e2e" kind="property"><name>name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value_1a4c5970df59ecacff02fe655362be2c8e" kind="property"><name>briefdescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value_1afbd7e7e8d8729f4e19d1947630274364" kind="property"><name>detaileddescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value_1a35a203e162a285913070f7cc650c636d" kind="property"><name>initializer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value_1a924be56a6a1b718190ccc480639b2466" kind="function"><name>EnumValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value_1acaf04c6984c2efc7db439b36390a90b4" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_facade_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::FacadeType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_facade_type_1ae24987e56772f06b1bcb1289cf8e9c33" kind="property"><name>UnderlyingType</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Serializers::HtmlSerializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer_1adc5dac2095173133645814bcbb69e457" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer_1a806b4536c46b8bfc2cefa236946a902c" kind="function"><name>Serialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Serializers::IntellisenseSerializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer_1a7b28723c68d1d4705d9dfdac2c2e7b7e" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer_1a337a10ee9d0de6c02f362533d0e8dd2f" kind="function"><name>Serialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_attribute" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedAttribute</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_attribute_1af6d6896b69682758991194dfae4d877f" kind="property"><name>AttributeData</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_attribute_1ab65929ee9a8309648bce3b12eefdf681" kind="function"><name>ManagedAttribute</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedClass</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class_1ae30c62257af3ff1a2ac1fcb2f97133c3" kind="function"><name>ManagedClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class_1aa7d2c17d3144c80b90f6f6ad741eb2a1" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class_1acb92cb228c3a123515e0b2122818487c" kind="function"><name>InitializeMembers</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedDelegate</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate_1ac893bd8cc2f2a005326491d520d5ee19" kind="function"><name>ManagedDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate_1a76594628cc6ff500c48fa286f0209e55" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate_1aa1317d3c923768db1a53c16904796c85" kind="function"><name>InitializeMembers</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedEnum</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum_1a460de5e23ef6a579c71f9a8cd85294c2" kind="function"><name>ManagedEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum_1ab8ed6e0c6662c4e3238f43768cbf8420" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum_1ad661bc499e8422c1dad2e9d00e8cea88" kind="function"><name>InitializeMembers</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedEvent</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a8e29ebe4d09bab655b68e2ecc766ea05" kind="property"><name>DelegateType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a0eb4b3ac62b9ce0c2306704131ea95c4" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a39256e4953c1e93a3511f7caf7ad9f3a" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a7ccb9d60af1b96c2edfb6b908dd824ff" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a505b7ba9b7c09c6b33d2ee8c8ac39141" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a494673f88d631bbc1b51674f4f691b72" kind="property"><name>AddMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a779278d21e95d4a77fbfbf05bc34eee7" kind="property"><name>RemoveMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1ab6099656a78a09e5274f85c79f943d72" kind="property"><name>UnderlyingEventInfo</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a17792e3bcbc89e105ebfc412857b5fbf" kind="variable"><name>_addMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a492a8be5c51c5db3a51fd01152c69459" kind="variable"><name>_removeMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a83c2d43b9056012b572c5677eef720e6" kind="function"><name>ManagedEvent</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event_1a97c451750ec76a3ae77af8bfc644d9b5" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedField</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1af29b5c4ed8b4a69b38c5dd06f46f9010" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1aa0b395b6b41c330d4f56d00a489abb76" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1a5d70d1682669611a7032c0f8dd0a0b74" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1a079f76025ffc42fa124055b57fc87dfc" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1a27a3220efa2cf2c63a5094e68bbf6833" kind="property"><name>UnderlyingFieldInfo</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1ac3064236a70dab5d75029242e1dc5b66" kind="function"><name>ManagedField</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field_1a4642590eb1cf397dd3512a27aec4098b" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedInterface</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface_1a23cb39448f4ee85b1bf7ffdf4cb9011a" kind="function"><name>ManagedInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface_1a81db76cbdc6f08dce80a5d5dc164d30c" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface_1a28defb2389be2fde2cf3891fd9a3b7e2" kind="function"><name>InitializeMembers</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedMember</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1a8a08eb0e3d07a7a0279947f40990e229" kind="property"><name>UnderlyingMember</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1ad9c7a9ed8bf70485268db9bd92c263a2" kind="variable"><name>_type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1a4cf23fad935d64a7dd08eaa3778468f1" kind="function"><name>ManagedMember</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member_1a0311ff2e34c297bc2a09c99be171aead" kind="function"><name>CreateMember</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedMethod</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a6aa8330a529bb6f53561ec8973c883ef" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1ab712c2d331b163f321d096e5b7d235bb" kind="property"><name>ReturnValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1aa4a7b30c01675ebc2e475b4994be6947" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a7e6748ff3056db9e30d669a41b7c609f" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a2aef90a4b3fa0f6aa4ee3bd1b3d4d0c3" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a1d2d2b9ad60f107cf29b0d5998670a70" kind="property"><name>Parameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a97d75c0026d7beaf203fb4180bb48cb0" kind="property"><name>UnderlyingMethodInfo</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1ab09f6fa97236321f45457a356b7077a3" kind="variable"><name>_parameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1ae65395f172dab8f4ad5ef220d1a21a61" kind="function"><name>ManagedMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method_1a99ea3d7b687ad09ad34818536ad27f2d" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedNamespace</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace_1a8ddb4954c982122d06d97d09fb553601" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace_1a34cde8838780abde9d40a198c06fbee4" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace_1aed1baa469ce5e289b3765cb44caf16e7" kind="property"><name>Namespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace_1ad618e66d4fc9de1708cfa1e44dc98e8c" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace_1abd353a616165c17336f0f027a4436933" kind="function"><name>ManagedNamespace</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedParameter</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a81422918d608e3e97a998297a6a7dd3e" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1ae2296ba8100a61e2cc5896eff8df5c03" kind="property"><name>IsArray</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a9ecbc8ef4e02f84c0cc12d8edef618e3" kind="property"><name>IsInParam</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a96fe04fbecffd218a048f263ac221b62" kind="property"><name>IsOutParam</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a5fef7fa31d104bf7f646bdfe2bf3de90" kind="property"><name>IsOptional</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1af7070c70c411da4bdd0bf1831d5cf0a2" kind="property"><name>IsReturnValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a97f7327aad98e6c9fe13c146c28818b4" kind="property"><name>IsReference</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a086550f46420d977843e2f6fe22b9abe" kind="property"><name>IsPointer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1a9d78deba6a712aeb6a2a79024378d881" kind="property"><name>Position</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1ab8a2ea6d54bdc2c120c07f66189b3e2e" kind="property"><name>UnderlyingParameter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1ae67534306fac5907027f7717c0558076" kind="variable"><name>_type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter_1aafe16471ba6cb75be6bddf036bdbac03" kind="function"><name>ManagedParameter</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a521bb1962d96fafb2f53951f67fb5edc" kind="function"><name>ManagedPipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a9317845132b198fd94d23fa8e5bc886b" kind="function"><name>ManagedPipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1ae83b1928717f04e112f9b2ff2770a2c4" kind="function"><name>Generate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a5b5ecfe663c2bf6a060b8d9cf09c9636" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedProperty</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1ad46ffffaedfe59ca2d69dc59ae6e33c4" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1ae6711bee6769979b65249adfe45f2f31" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1a9f0680c9eadca5d060f3eda5e674b394" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1ad1ec8098b206eee0a2f30a0313fba264" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1ae1609d144817c57f4d95a2949cd4b3b9" kind="property"><name>GetMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1af72b9413fee4560bc85b3c6781f5e9bb" kind="property"><name>SetMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1aecb8dcbad6d8cf2974336a6777305dbf" kind="property"><name>UnderlyingPropertyInfo</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1aa668a410de7bc5379366602e54427a60" kind="variable"><name>_getMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1a534c221e18d9bf69ba2d8aa22bfd4891" kind="variable"><name>_setMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1a57abf90aedd0d67a89fb649a807850cd" kind="function"><name>ManagedProperty</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property_1a9b63ac46322feba6cecc05886862555c" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedStruct</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct_1a0be5c6e16a90cb22ca224584bb12f8f2" kind="function"><name>ManagedStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct_1a60fbfc22c3f2dc72039d9084811018cf" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct_1a2c2399689faefa5feba847c9147fa674" kind="function"><name>InitializeMembers</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a7db6540b0a2338e1c1a0a7ba7ffafd92" kind="property"><name>KnownTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a7057fddeffef1e466e9b0df633eb6012" kind="property"><name>UnderlyingType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a005e52f7a1f32a25df94986883b3b5b9" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ab3486d7860af12a67c43d1b9cf01aff3" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a09f9eb56f4759784f7279064580eced1" kind="property"><name>Namespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a36869fd7c7ab29a27ccc1a5288be1f1c" kind="property"><name>IsAbstract</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a9f01e8c595dd1aa0ea81040b2f2dfd28" kind="property"><name>IsAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a5928b119787c2617535238717248c695" kind="property"><name>IsClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1acc8ac6c2cd731d251387ae09eb03448a" kind="property"><name>IsDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a49f6938ef0b0638c08e2c2117859a878" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a0f0e1c04ba95eb01b17a84881a731b07" kind="property"><name>IsGeneric</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ae53d7df7fb4009144a3510330b7184e9" kind="property"><name>IsInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a7e4aef45145f1fd1b9126d2dfff54e1a" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1aff90beb9eace73022fb160a88698d4bd" kind="property"><name>IsReferenceType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a76607600173a91c593df191d4b85ae82" kind="property"><name>IsSealed</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1abfb89e242a384b81b07fe55b652ecddf" kind="property"><name>IsStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1afe7f4590a59db42ba511896158e87015" kind="property"><name>IsValueType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ab702b9c3933999828fbd42ad07f219d7" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a98f7e01149a6540ef06a2a4fac314dba" kind="variable"><name>_knownTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a866dea2225b0eb24c298691ae7e8f138" kind="function"><name>ManagedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a9aa70abe7d58aa5458680185c43056c9" kind="function"><name>ManagedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a92536b70fb34c38582bac158396907c2" kind="function"><name>ToString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1acbfe9501a91a71869ea7fbd17967850d" kind="function"><name>InitializeMembers</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a0d8a12797f8f6e4efdd6cd33446f5a71" kind="function"><name>CreateType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a51e03fbc9349b518af788abe7562b4df" kind="function"><name>CreateType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ac1c11302f03553e4f6580a507d8627a8" kind="function"><name>CreateType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ade3cca03a875911332654b8ab1355a35" kind="function"><name>CreateNamespaceType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1af2c168c00035d36b1be0d52ea098662a" kind="function"><name>CreateNewType</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Member</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_1af71c2e216509cce1c12ea15679824995" kind="property"><name>SourceFile</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_1ac3e63b2c641b2a3956cbf21b3435973b" kind="property"><name>refid</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_1a4ed8adab79a4210d2c1c81d6fa5c9c2b" kind="property"><name>kind</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_1a666bb7fa471220a880417c5ccb725b1d" kind="property"><name>name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_1a41ec96924a2e940f6c4a63eea594a8e0" kind="function"><name>Member</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_1aec92780ba81aeeff89447679edecd7c5" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::MemberDef</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1afce1dee0d91067679591c7b71c97511d" kind="property"><name>TopicId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1af876120b4c45ac21974e5660631e9a1a" kind="property"><name>ParentType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a5959e5f029be18bdbf5666d273b7ba91" kind="property"><name>id</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a5165b03256def5c0c779d138a215480d" kind="property"><name>kind</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a539c49680b460fba9c02ddcb913d518b" kind="property"><name>prot</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a8014803f0e863c25c0d6c41164d85a52" kind="property"><name>compoundname</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a07515409f2c7d3eb403344ccbac208f9" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1aaca11ecfa47d0d0d131a146685a0ecc1" kind="property"><name>IsConst</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1aa28e98553edd3c7231a81d9fc8a49012" kind="property"><name>IsExplicit</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1ac076d05d489a04163e4215886fc166e7" kind="property"><name>IsInline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a9737e4de27e9b51ce5e27925cafe40b0" kind="property"><name>IsVirtual</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a3f08b3b45118609307b80dceb2205d63" kind="property"><name>IsMutable</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1af6e2be90a02f641add452d2beebfe8fc" kind="property"><name>type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1ad1b0400b869de417f1553c1ec1a1436b" kind="property"><name>DoxType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a14741031a80983c706d24dc27dbfa0ba" kind="property"><name>definition</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1aac2cdc3e034204ef34f12b2c25f9f67d" kind="property"><name>argsstring</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a78c1fa477184e50111a6a5d44c760965" kind="property"><name>name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1af3aa2513ce7bb928ec6f4ffe1454639f" kind="property"><name>briefdescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1afb1400b1fd4449760c682c9b8cbd615b" kind="property"><name>detaileddescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a800ce4f5e7bade1491c8f59d2e813c52" kind="property"><name>inbodydescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a762f498c4e191d61099ea2a283c3d779" kind="property"><name>BriefDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a944bc883c61269c80a3d1576cbc0b026" kind="property"><name>DetailedDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a9fadc708d2f4846cdb4c3d8f0bec2f57" kind="property"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a4455bfdd8f384da74be009939d45ce5d" kind="property"><name>fileLocation</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1aab273b7eb335518d908b6a41b1f8262c" kind="property"><name>line</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a85b17acdc948be4ec8f9d1f31005983a" kind="property"><name>column</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1af83e93e65f9cf9bca5ea4c9fd826c4fc" kind="property"><name>IsProperty</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a36727bff59088af18b59c7dc975c1757" kind="property"><name>IsMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a59f4ad7ece49baf4e7c1d413a805b838" kind="property"><name>IsConstructor</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a8ab1df9df70202915f1c43be9fa68407" kind="property"><name>IsField</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a9299a2f941b76434f5b6529c9c191af1" kind="property"><name>IsEvent</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a114ba63b56da30e46d2609f4d210bea1" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a00bd0faf30bc392bac974466d804165a" kind="property"><name>HasParameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1aebf28539c963b9dc560744a2325bab8f" kind="property"><name>Parameters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1a99768c2d1534634d0e15cdcde1b2b9e2" kind="property"><name>EnumValues</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1acd7ea9677dc02b6cf9a5845c715d38fa" kind="function"><name>MemberDef</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def_1ad18f03153278725a3dfeea589f92ec45" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_class" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeClass</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_class_1a32447fe2ccaf65315bd8f57cf363c011" kind="function"><name>NativeClass</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_constructor" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeConstructor</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_constructor_1ada65f6e447ff4b6c3f2d40b3e0920213" kind="function"><name>NativeConstructor</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_enum" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeEnum</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_enum_1a5ebca29f8b842510ec3f359e28800da6" kind="function"><name>NativeEnum</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_event" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeEvent</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_event_1a97cb857d10ee6ab7f20fda5c819eb38f" kind="function"><name>NativeEvent</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_field" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeField</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_field_1a5383618a14e3410c05463f76806dd90a" kind="function"><name>NativeField</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_interface" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeInterface</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_interface_1a5f3df42a824da8950eb71592094d6b4f" kind="function"><name>NativeInterface</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a4f53afb1ebe1f04f86a5a60d9e5ec2f1" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a95aaa99f6967ee26d410329d1d384b69" kind="property"><name>IsPrivate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a7b98617db0c145b754022f5868f5fb7c" kind="property"><name>IsStatic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a07ab4cbe1a463d414f0f111829ca6c8b" kind="property"><name>UnderlyingMember</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a4248af416898e9d12a6eacbd14985658" kind="function"><name>NativeMember</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1ac30a85b0e5c86c1b96e7606819e22c5b" kind="function"><name>CreateMember</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_method" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMethod</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_method_1a422bc0711bc1c8b829753197d51f9248" kind="function"><name>NativeMethod</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_namespace" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeNamespace</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_namespace_1a1469ab7f3fe84a8c7648e86731b61cc2" kind="function"><name>NativeNamespace</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeParameter</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1a1bcb1cb4bf90d01bb08ec0432f40e95d" kind="property"><name>Type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1abab263d95d1e22cc254d350ab430e77a" kind="property"><name>IsArray</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1aa9a8077942d6c0815ed9068a04cf0cf7" kind="property"><name>IsInParam</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1a7444b6f7b296ce3f3001f7c73c964670" kind="property"><name>IsOutParam</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1ac6905b60d7612d30c2a38cf54867a893" kind="property"><name>IsOptional</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1a164ad7278dc8c79be220d3fb44c36bbf" kind="property"><name>IsReturnValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1ae2caf2e42247b4906ecfc556411ad9ff" kind="property"><name>IsReference</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1aee3a0ee4699833f3ce8d51ac2e28ebd5" kind="property"><name>IsPointer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1ac29758d0bb12bb9dc2af58c6623fd947" kind="property"><name>Position</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1a4533e1bf6c2af8154842d5075e0d3117" kind="property"><name>UnderlyingParameter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter_1a7a06c7627016cc9b6884d3e2c1942b6b" kind="function"><name>NativeParameter</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Pipelines::NativePipeline</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline_1a96d7d3ee69b70f2d57d0855464a821b2" kind="function"><name>NativePipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline_1ab999b874c31463370f5c1962687eeac2" kind="function"><name>Generate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline_1a5284b66a92cd99316cc1d8ba75fb49ab" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_struct" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeStruct</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_struct_1a303c17e8f9b5e2eef6d4ab509fe2dcd4" kind="function"><name>NativeStruct</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a12d79fc8fca200db4023c4acb2e7b69d" kind="property"><name>KnownTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a7d3871dc88c3805406ea8c7783653b99" kind="property"><name>UnderlyingType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ab76e557b0500911d5260f4b1e9193489" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1aceffdf6b11695d8eb9c609dcc6f0a65e" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ad077675ce404ef8d4ad966b47a7eb702" kind="property"><name>Namespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ac07a9318b0b2730820e82fdcba04e80c" kind="property"><name>IsAbstract</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a24e9686f0d9897daf5fa7a093eb423bc" kind="property"><name>IsAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1af59ed807779ca99c68e295cf6bcb4ff7" kind="property"><name>IsClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ac1b54dbc486fa969114bdd245eadd729" kind="property"><name>IsDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a24b3d2fd90e263372a9ef3a128fc24a0" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a6f5a362142e45c2523aba1a5c90ba621" kind="property"><name>IsGeneric</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1aa162e92c774c1454b5039bfc4b9839cd" kind="property"><name>IsInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1acb0c061890688a72fdd0a7b2b12e7812" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ad014822a7ac41ad629cc4abb1390cf9f" kind="property"><name>IsReferenceType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1acb35b6dad9d994a5702296616708bc0b" kind="property"><name>IsSealed</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ae767d8f3e8fd374f77fc61c401a15536" kind="property"><name>IsStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1ae1a18dbdaa303c6dc4562964e62c6911" kind="property"><name>IsValueType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1acf9c87f0ff070692b783d4d650b58002" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a77d4987382c156b158941a84bcbff05a" kind="variable"><name>_knownTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a8a102bec1674530beae776f878183782" kind="function"><name>InitializeMembers</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1aa574dba6ee99f35cfec0013682a87c34" kind="function"><name>CreateType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a9fa759b2aa01a0d69860acabea3f697f" kind="function"><name>CreateNamespaceType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a9bc7a19ec8a8025b9bd87640e357dfca" kind="function"><name>CreateNewType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type_1a955588cb1fcfb62a15e02594c780ca60" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::NativeType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_type_1a6ce293e068df7115031f272c40d9a317" kind="property"><name>UnderlyingType</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Para</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a8c070bbbd2f52c0792df666c36780c67" kind="property"><name>Content</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1af12ad445f832b9dfd172a4940b813eb2" kind="property"><name>EmbeddedRefs</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a6f6e98754fc5d05da971807ace37b5a7" kind="property"><name>EmbeddedLinks</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a10bd4321e201786912f622b3a62fe5b4" kind="property"><name>HasCodeSample</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a2e07917324b7812c81f9fe9d35e0bf61" kind="variable"><name>_embeddedLinks</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a59271af9dad43bb65683f72abe3055f6" kind="variable"><name>_embeddedRefs</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1ae2ad2c572c00f3f95fb79308fb2cae54" kind="function"><name>Para</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a34ee3c388b53df0eaa9761e56d9c8a2b" kind="function"><name>ParseParaElement</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para_1a35ee2f19dbadeb2d284d18a6b4e61a4b" kind="function"><name>IsSampleLink</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Param</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a5ebb592d41862cfea8fe7c106d86dab2" kind="property"><name>BriefDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a0a663c53d08baf1431b8ef73a757549c" kind="property"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a5815354fe9890cedb3edc28ce1b1f7cc" kind="property"><name>type</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1aad379cea2fdd098f5aed98588da0e0bb" kind="property"><name>DoxType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a2a7b5a601bb5ab409d61309555690a1f" kind="property"><name>declname</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a321515a30edca504bd73bf3ec3dd8fb7" kind="property"><name>defname</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1ac3949c7091b23bb85e8dd57d36f9af66" kind="property"><name>defval</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1ac0443462aed2dc2eb8114281815c9b92" kind="property"><name>array</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a515108c7c66beb4831d1bab3c9ef28b3" kind="property"><name>briefdescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1acd49ac70bb6cbab3f75b5102a1e9b72b" kind="property"><name>attributes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1acd5d76b164876319f46a519d1f5646b8" kind="property"><name>IsEventToken</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1afb736dc1fd0db5b1f3173484da42ce51" kind="function"><name>Param</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a507e7d0d8c9991dde3e819c83a876e12" kind="function"><name>Param</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param_1a209e0677a6aa9276c6949386dece1761" kind="function"><name>ToString</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a91e6abcb38008e8f9c7feab39258165e" kind="property"><name>InputFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab5312c273d1841ab9882f57eeac298b8" kind="property"><name>OutputFolder</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a55389526dc4f8616b4262931c63168a6" kind="property"><name>Source</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a9c0559ef5c137bf62677effd1acbed8b" kind="property"><name>Types</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a3f2ec5e22bf47bddae0e78dc111ccb0b" kind="property"><name>Destinations</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ac4123b7c6087ed1d029b842c249e1cce" kind="property"><name>Destination</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aedf3d473d88dfb54c3fb412d67fcc125" kind="function"><name>Pipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a52ccfbbe10da2941f7b47b83358f8716" kind="function"><name>Pipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a66af6bd0c784c0ce4c7d395c84ed01d0" kind="function"><name>Generate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aee39b4fe8e726ab112c19747d526372b" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ad939b2cd948f276ce5a47811b15d6062" kind="function"><name>ValidateInputs</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab77dba504880f50911c3debf6c997b06" kind="function"><name>ValidateInputs</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_primitive_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::PrimitiveType</name>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type_1aaa60e2a1af74b20ba9528a05277c9adf" kind="property"><name>UnprojectedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type_1ab3f40fe706318fc2d03f5826fae108fa" kind="function"><name>ProjectedType</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Projected::ProjectedType</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a9952d7d7b4855ed0852616d06ddbbcf3" kind="property"><name>Name</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a744288c48f5ba3985a47759279179196" kind="property"><name>FullName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a1d20253de770536e45197d0055484824" kind="property"><name>Namespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1acbd735013140ca1fc1da53077aa44a40" kind="property"><name>IsAbstract</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a2677175f78f9a19a62ef7819943a52a1" kind="property"><name>IsAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1ac6fadc7c6070ec52e07881d46c863787" kind="property"><name>IsClass</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a8110d9b7bfe8bd6ed2373dc525e556ad" kind="property"><name>IsDelegate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1ab645163d8851ad856ca6c4cd8216a593" kind="property"><name>IsEnum</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1aa7b4ed508b901ca1f745babc5d5bc803" kind="property"><name>IsGeneric</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a23fb189fafe71cd266f1af9ced4a71b9" kind="property"><name>IsInterface</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1ac5f67344ca17e38d7155ca5caed7c38d" kind="property"><name>IsPublic</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a2310b09b86818802199ed2013520d335" kind="property"><name>IsReferenceType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1ac72259a5cb6089c5f33504b0c0f5c955" kind="property"><name>IsSealed</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a201604d03188d7eae0c3662ae51dfa3a" kind="property"><name>IsStruct</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1ad4a799d0bfcc85ca47644a6697238f2f" kind="property"><name>IsValueType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a2afa32060dcc34dec04013606b1b3da5" kind="property"><name>ChildTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a7a4d44c831d97f22dceecdb0f5a82894" kind="function"><name>ProjectedType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type_1a30e641f9818246d08afc57f707bb6a09" kind="function"><name>InitializeMembers</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_reference_content" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ReferenceContent</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_reference_content_1ab30c4ec564114546b3610e4b3a176b65" kind="property"><name>Description</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_reference_content_1aca414ffe82551cde06711fd6e211cd3a" kind="property"><name>Remarks</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_reference_content_1a804b16c8e7eaab625b5fd8eaadf991ef" kind="property"><name>SampleUri</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties_1_1_resources" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Properties::Resources</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties_1_1_resources_1a0673d5a60823d4d51592877607542923" kind="variable"><name>resourceMan</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties_1_1_resources_1a1d9fc55e5f16c8ceb1a34943932a3c7c" kind="variable"><name>resourceCulture</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties_1_1_resources_1a2d4c9aad04ac141287921e1ea0bbdfaa" kind="property"><name>ResourceManager</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties_1_1_resources_1a66079fef17f91debb3b27cc5146a1465" kind="property"><name>Culture</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties_1_1_resources_1ac97f0231d90c4a14002ce92173c0ea00" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Pipelines::RidlPipeline</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1a2898cafefd3b0f2364b8c52d1a2a46e8" kind="property"><name>WinmdPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1a333f32ad2aa1505dc67a606cf0081f2d" kind="function"><name>RidlPipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1a6e2f4f1536e36afc71a2870a40503aef" kind="function"><name>RidlPipeline</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1a80686541e47e4f84de28674e1d286053" kind="function"><name>Generate</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1ae80f6c44c9a13f12c8e1dd82e302011b" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1aa61a83636e1ad67ff4757c1711389287" kind="function"><name>ValidateWinmdPath</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1aff979114f0b48f0db8d044ab51c57fb9" kind="property"><name>WinmdPath</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a97474aefddbe59dc342a63a0778e3862" kind="property"><name>Index</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1af1c787fff894a4912c73a72876d329e4" kind="variable"><name>indexDocument</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1aaba8ed88029f281ed77c2205f7a850a9" kind="variable"><name>indexFilename</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a740be765cc8a150b960219c4e632da12" kind="function"><name>RidlXmlDeserializer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a18fe893c6c167e119579477e6942f5db" kind="function"><name>Deserialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a58d6946831da08ce5d5bb1f180b92afa" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a454a2493a47cddc58d0c9bdcd242cf60" kind="function"><name>LoadIndex</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a3025b418afbad31391fbc9db3f786843" kind="function"><name>LoadNativeTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1ad84d703fa24087bc0f1da82c67467e36" kind="function"><name>LoadManagedTypes</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a9e064efbbed440457d1cb69df53e169f" kind="function"><name>GetBNamespaces</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a95e77cff5c00c0e6423c113a1527eecd" kind="function"><name>GetTypesInNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a45e220f24c22a7709acd6d20fb3503e4" kind="function"><name>GetTypesInNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1abcf35575000febd5ec09cb1138fb83de" kind="function"><name>GetObservableTypes</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Serializers::Serializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer_1aae333bcf4c29114ce32c5d05e32bd16d" kind="function"><name>Initialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer_1a17eeb68f150b672e285fafd1a83a2970" kind="function"><name>Serialize</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a21d4e8d2175073b3e00dcac285d37fab" kind="variable"><name>genericCharacter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae3896c5f985dc2fcce27bde4fba7f3a0" kind="variable"><name>referenceCharacter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a982703112dc7b7efd94738d139a77659" kind="variable"><name>separatorCharacter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a97ba9308cb60dad765c94f100800107f" kind="variable"><name>arrayCharacters</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac4e63db3c57d79005178d2454ba1dd73" kind="variable"><name>arrayRankWarningFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a47cb25cdc0845baf07bd8874dd55eb79" kind="variable"><name>namespaceIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a28a42cea4ee4229cc03c8b185ae98636" kind="variable"><name>typeIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a368ddf3c17cf6daed4a110d3f65f4e90" kind="variable"><name>genericTypeIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac03afd88840baefa7b304dc72dd353db" kind="variable"><name>defaultCtorIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab0b98e76a4df3407ef37806b45bd57b5" kind="variable"><name>paramsCtorIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a52f8e07cad4e548aace8336da84b81d1" kind="variable"><name>overloadedParamsCtorIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa2fabfe2a1b3bf374917203a0fbe8017" kind="variable"><name>methodIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a07a459224522659b1895084d3d8393ff" kind="variable"><name>paramsMethodIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af76d081d5a8d6987813ceda811105f7d" kind="variable"><name>overloadedMethodIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a975b0359b815ba90f02bc674c5d3414c" kind="variable"><name>overloadedParamsMethodIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5b948c1c3c6759d31885caf53d39a94b" kind="variable"><name>fieldIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3ac9f0d9338eaa1330466ee728c13cee" kind="variable"><name>constantIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0b343633398f3b2a48a15552c2242f2b" kind="variable"><name>propertyIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac9193063e895988f03d3fdb006411d4b" kind="variable"><name>eventIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a29fa356ad90fe6b287c03abb6e227a8e" kind="variable"><name>nestedClassIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a2ba157352b168ee5e03073e3d904220b" kind="variable"><name>delegateIdStringFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aededd96c13beab56a450cb2fca9a9b16" kind="variable"><name>commentIdReferenceCharacter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad1e2852d0badb42adf73560804f7bd20" kind="variable"><name>commentIdGenericParamFormat</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af5b038f3e14a72bd33087dfa49cd399f" kind="variable"><name>emptyDescriptionNagString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a53600af8d8dfcee008e8b114b53ef059" kind="variable"><name>objectMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae89bb73b849093f2aa064548efd1e448" kind="variable"><name>enumMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5e2f6fba6db1b1fbd1e3683226d178ab" kind="function"><name>GetTypeName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a480399eb3e6d4424380feb8c701e8060" kind="function"><name>IsCppStyleTypeName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a83d0f351b58f0349de3b82e7d9bd2c40" kind="function"><name>IsCSharpStyleTypeName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af7d56367287abc659e4e4118a75f30d2" kind="function"><name>GetParentNamespaceFull</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a76367fe164ae8d5b7bf4b9338fc8edae" kind="function"><name>GetParentNamespace</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae3b7e4de90c5981a18c27aa8aa4761c3" kind="function"><name>TryGetElements</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a66a6539ae0958df9c7ef0fbb9ee4d751" kind="function"><name>TryGetElement</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0f19e777b2b7e6342bbd246d896286d6" kind="function"><name>TryGetElementValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3865597a679ebd228370ce10ce1f9a8f" kind="function"><name>GetChildElements</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0aff065ccaf12d6e4a396f4a6e4705b6" kind="function"><name>GetElements</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a11dc0dde7870d2c59428398516573371" kind="function"><name>GetChildElement</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3b2cac7c470f0ade3ab0e64327fa725d" kind="function"><name>TryGetChildElementValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aad26fad36b2177eeb5a9d789c8ccb239" kind="function"><name>TryGetChildElement</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a948c92b0919453bb34ffcde434755d26" kind="function"><name>TryGetChildElements</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa526d2408ec95702e866a1b2099ee692" kind="function"><name>TryGetAttributeValue</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aaf388d4add0785e7e0fecfa94f51b446" kind="function"><name>TryGetAttribute</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a14c5e1876a15d104e35db073c15d249f" kind="function"><name>ParseYesNo</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a402a5351cc9cd6967d47e2aa6a2c3c16" kind="function"><name>ParseVirt</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a898f5313bc5f174eb85e6e3f4ddc3d50" kind="function"><name>GetDescriptionString</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3d8587f715f861f8e0a358574f9cba07" kind="function"><name>GetBriefDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa8414e47052f03073410e51807618886" kind="function"><name>GetDetailedDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad01c86aad111ed480b1dd923aec155e5" kind="function"><name>GetBriefDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a7d55c6da8e516491b48cc0acdb73a6ec" kind="function"><name>GetDetailedDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0982f0ec21434359768990d060c8d724" kind="function"><name>GetInBodyDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af8382bf4e17666c66a2b2eeffff2feea" kind="function"><name>TranscribeKind</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae2f0f71a18de4a148fc8df5edc6c4ea2" kind="function"><name>GetMarkdownLink</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a65c3de7e5605a63c0501493270e35e69" kind="function"><name>GetAnchor</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab95c38100e5de559abe81c8e7e3d66e3" kind="function"><name>GetSectionId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3be816fd42801d2b79bacbbacb21a470" kind="function"><name>GetSectionId</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a97bb63ce93219db1d56b9272f476b446" kind="function"><name>GetUndecoratedName</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a842a0d0428b4f0c22a507c913c0ebb93" kind="function"><name>FilterEnumMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aff4c0b0b3426c5899090aa4a9343ffe8" kind="function"><name>FilterObjectMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad7f4dc2f596caade4818ed9c302f4859" kind="function"><name>FilterAccessorMethods</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab554813eb79cef72487205157905adaa" kind="function"><name>GetTopicIdForNamespce</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a83448767970a2a6adfa7d11389a2b914" kind="function"><name>GetDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3547d4425aa5a4d7a55a29fb773eba13" kind="function"><name>GetDescription</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a7d71a2d17ffee08d25e53bf4df21eb31" kind="function"><name>IsAccessorMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a30ce970bb98e5d32432c8c066c3f69c4" kind="function"><name>IsPropertyAccessorMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5bd47b622927062c857da0385db09783" kind="function"><name>IsGetAccessorMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1afe0deb2d35c38ef06cf2f2116b0ea8ef" kind="function"><name>IsPutAccessorMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab7b9c997b623dbc1ff6d3987d0403480" kind="function"><name>IsEventAccessorMethod</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae92e78bb13d321cf651a7239498af995" kind="function"><name>IsByRefParameter</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a965adf4c685b50ed3ed541ccf002c840" kind="function"><name>IsByRefType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a6074a8b26322884aef5e8ec8f62962c3" kind="function"><name>IsArrayType</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a76436a2166d8792fbffaadfe87e5ad12" kind="function"><name>IsArrayRefType</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer_1af20835d927a1b8b0b4245e4eee97e037" kind="function"><name>XdcDeserializer</name></member>
+  </compound>
+  <compound refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer" kind="class"><name>OsgContentPublishing::ReferencePipelineLib::Deserializers::XmlDeserializer</name>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a725962a4b5a5717ff0b7502256526588" kind="function"><name>XmlDeserializer</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a7975465a68aa487a1fdbe7d25389fe49" kind="function"><name>Deserialize</name></member>
+    <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a8ec1cdc8f086ae8a58214aa9ff8fee24" kind="function"><name>Initialize</name></member>
+  </compound>
+  <compound refid="namespace_osg_content_publishing" kind="namespace"><name>OsgContentPublishing</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_event_logging" kind="namespace"><name>OsgContentPublishing::EventLogging</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::Deserializers</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::Pipelines</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::Properties</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::Serializers</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native</name>
+  </compound>
+  <compound refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected" kind="namespace"><name>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Projected</name>
+  </compound>
+  <compound refid="namespace_reflection_utilities" kind="namespace"><name>ReflectionUtilities</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespace_system_1_1_diagnostics_1_1_tracing" kind="namespace"><name>System::Diagnostics::Tracing</name>
+  </compound>
+  <compound refid="namespace_system_1_1_i_o" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_compiler_services" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_interop_services" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="namespace_system_1_1_xml_1_1_linq" kind="namespace"><name>System::Xml::Linq</name>
+  </compound>
+  <compound refid="_deserializer_8cs" kind="file"><name>Deserializer.cs</name>
+  </compound>
+  <compound refid="_doxygen_deserializer_8cs" kind="file"><name>DoxygenDeserializer.cs</name>
+  </compound>
+  <compound refid="_ridl_xml_deserializer_8cs" kind="file"><name>RidlXmlDeserializer.cs</name>
+  </compound>
+  <compound refid="_xdc_deserializer_8cs" kind="file"><name>XdcDeserializer.cs</name>
+  </compound>
+  <compound refid="_xml_deserializer_8cs" kind="file"><name>XmlDeserializer.cs</name>
+  </compound>
+  <compound refid="_temporary_generated_file__036_c0_b5_b-1481-4323-8_d20-8_f5_a_d_c_b23_d92_8cs" kind="file"><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name>
+  </compound>
+  <compound refid="_temporary_generated_file__5937a670-0e60-4077-877b-f7221da3dda1_8cs" kind="file"><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name>
+  </compound>
+  <compound refid="_temporary_generated_file___e7_a71_f73-0_f8_d-4_b9_b-_b56_e-8_e70_b10_b_c5_d3_8cs" kind="file"><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name>
+  </compound>
+  <compound refid="_managed_pipeline_8cs" kind="file"><name>ManagedPipeline.cs</name>
+  </compound>
+  <compound refid="_native_pipeline_8cs" kind="file"><name>NativePipeline.cs</name>
+  </compound>
+  <compound refid="_pipeline_8cs" kind="file"><name>Pipeline.cs</name>
+  </compound>
+  <compound refid="_ridl_pipeline_8cs" kind="file"><name>RidlPipeline.cs</name>
+  </compound>
+  <compound refid="_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="_html_serializer_8cs" kind="file"><name>HtmlSerializer.cs</name>
+  </compound>
+  <compound refid="_intellisense_serializer_8cs" kind="file"><name>IntellisenseSerializer.cs</name>
+  </compound>
+  <compound refid="_serializer_8cs" kind="file"><name>Serializer.cs</name>
+  </compound>
+  <compound refid="_constructor_8cs" kind="file"><name>Constructor.cs</name>
+  </compound>
+  <compound refid="_managed_2_constructor_8cs" kind="file"><name>Constructor.cs</name>
+  </compound>
+  <compound refid="_defined_event_8cs" kind="file"><name>DefinedEvent.cs</name>
+  </compound>
+  <compound refid="_defined_field_8cs" kind="file"><name>DefinedField.cs</name>
+  </compound>
+  <compound refid="_defined_member_8cs" kind="file"><name>DefinedMember.cs</name>
+  </compound>
+  <compound refid="_defined_method_8cs" kind="file"><name>DefinedMethod.cs</name>
+  </compound>
+  <compound refid="_defined_parameter_8cs" kind="file"><name>DefinedParameter.cs</name>
+  </compound>
+  <compound refid="_defined_property_8cs" kind="file"><name>DefinedProperty.cs</name>
+  </compound>
+  <compound refid="_defined_type_8cs" kind="file"><name>DefinedType.cs</name>
+  </compound>
+  <compound refid="_compound_8cs" kind="file"><name>Compound.cs</name>
+  </compound>
+  <compound refid="_description_8cs" kind="file"><name>Description.cs</name>
+  </compound>
+  <compound refid="_dox_type_8cs" kind="file"><name>DoxType.cs</name>
+  </compound>
+  <compound refid="_doxygen_type_8cs" kind="file"><name>DoxygenType.cs</name>
+  </compound>
+  <compound refid="_enum_value_8cs" kind="file"><name>EnumValue.cs</name>
+  </compound>
+  <compound refid="_member_8cs" kind="file"><name>Member.cs</name>
+  </compound>
+  <compound refid="_member_def_8cs" kind="file"><name>MemberDef.cs</name>
+  </compound>
+  <compound refid="_para_8cs" kind="file"><name>Para.cs</name>
+  </compound>
+  <compound refid="_param_8cs" kind="file"><name>Param.cs</name>
+  </compound>
+  <compound refid="_utilities_8cs" kind="file"><name>Utilities.cs</name>
+  </compound>
+  <compound refid="_facade_type_8cs" kind="file"><name>FacadeType.cs</name>
+  </compound>
+  <compound refid="_managed_attribute_8cs" kind="file"><name>ManagedAttribute.cs</name>
+  </compound>
+  <compound refid="_managed_class_8cs" kind="file"><name>ManagedClass.cs</name>
+  </compound>
+  <compound refid="_managed_delegate_8cs" kind="file"><name>ManagedDelegate.cs</name>
+  </compound>
+  <compound refid="_managed_enum_8cs" kind="file"><name>ManagedEnum.cs</name>
+  </compound>
+  <compound refid="_managed_event_8cs" kind="file"><name>ManagedEvent.cs</name>
+  </compound>
+  <compound refid="_managed_field_8cs" kind="file"><name>ManagedField.cs</name>
+  </compound>
+  <compound refid="_managed_interface_8cs" kind="file"><name>ManagedInterface.cs</name>
+  </compound>
+  <compound refid="_managed_member_8cs" kind="file"><name>ManagedMember.cs</name>
+  </compound>
+  <compound refid="_managed_method_8cs" kind="file"><name>ManagedMethod.cs</name>
+  </compound>
+  <compound refid="_managed_namespace_8cs" kind="file"><name>ManagedNamespace.cs</name>
+  </compound>
+  <compound refid="_managed_parameter_8cs" kind="file"><name>ManagedParameter.cs</name>
+  </compound>
+  <compound refid="_managed_property_8cs" kind="file"><name>ManagedProperty.cs</name>
+  </compound>
+  <compound refid="_managed_struct_8cs" kind="file"><name>ManagedStruct.cs</name>
+  </compound>
+  <compound refid="_managed_type_8cs" kind="file"><name>ManagedType.cs</name>
+  </compound>
+  <compound refid="_native_class_8cs" kind="file"><name>NativeClass.cs</name>
+  </compound>
+  <compound refid="_native_constructor_8cs" kind="file"><name>NativeConstructor.cs</name>
+  </compound>
+  <compound refid="_native_enum_8cs" kind="file"><name>NativeEnum.cs</name>
+  </compound>
+  <compound refid="_native_event_8cs" kind="file"><name>NativeEvent.cs</name>
+  </compound>
+  <compound refid="_native_field_8cs" kind="file"><name>NativeField.cs</name>
+  </compound>
+  <compound refid="_native_interface_8cs" kind="file"><name>NativeInterface.cs</name>
+  </compound>
+  <compound refid="_native_member_8cs" kind="file"><name>NativeMember.cs</name>
+  </compound>
+  <compound refid="_native_method_8cs" kind="file"><name>NativeMethod.cs</name>
+  </compound>
+  <compound refid="_native_namespace_8cs" kind="file"><name>NativeNamespace.cs</name>
+  </compound>
+  <compound refid="_native_parameter_8cs" kind="file"><name>NativeParameter.cs</name>
+  </compound>
+  <compound refid="_native_struct_8cs" kind="file"><name>NativeStruct.cs</name>
+  </compound>
+  <compound refid="_native_2_native_type_8cs" kind="file"><name>NativeType.cs</name>
+  </compound>
+  <compound refid="_native_type_8cs" kind="file"><name>NativeType.cs</name>
+  </compound>
+  <compound refid="_primitive_type_8cs" kind="file"><name>PrimitiveType.cs</name>
+  </compound>
+  <compound refid="_projected_2_projected_type_8cs" kind="file"><name>ProjectedType.cs</name>
+  </compound>
+  <compound refid="_projected_type_8cs" kind="file"><name>ProjectedType.cs</name>
+  </compound>
+  <compound refid="_reference_content_8cs" kind="file"><name>ReferenceContent.cs</name>
+  </compound>
+  <compound refid="dir_c112fb2d98c94a120c3b7e15efb11ea9" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/obj/Debug</name>
+  </compound>
+  <compound refid="dir_e9010c657484de97a89965b66d2adc8f" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers</name>
+  </compound>
+  <compound refid="dir_e9f1d3f107cdefbf16445ae5239c19cd" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen</name>
+  </compound>
+  <compound refid="dir_fbcc325b96b4c8057029314fc660d847" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed</name>
+  </compound>
+  <compound refid="dir_9e16bc0ab5328dfb3b1d49484358bd90" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native</name>
+  </compound>
+  <compound refid="dir_bbb6a01ace49d43f257885f5f3049532" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/obj</name>
+  </compound>
+  <compound refid="dir_2718c59e921b6db017292bfc83eede7c" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines</name>
+  </compound>
+  <compound refid="dir_9a9172074d551151fb833f48d20bf7d3" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Projected</name>
+  </compound>
+  <compound refid="dir_995919fd606192cbf846dcd973d23607" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Properties</name>
+  </compound>
+  <compound refid="dir_baed45e50b0f598f819d7aa9631cd4fc" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib</name>
+  </compound>
+  <compound refid="dir_ac275eeca4462a453f8d65bb3e3613b5" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers</name>
+  </compound>
+  <compound refid="dir_b62441800394114c8d6cad3fc47ba88c" kind="dir"><name>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology</name>
+  </compound>
+</doxygenindex>

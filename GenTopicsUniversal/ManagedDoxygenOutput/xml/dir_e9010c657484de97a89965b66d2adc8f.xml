@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_e9010c657484de97a89965b66d2adc8f" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers</compoundname>
+    <innerfile refid="_deserializer_8cs">Deserializer.cs</innerfile>
+    <innerfile refid="_doxygen_deserializer_8cs">DoxygenDeserializer.cs</innerfile>
+    <innerfile refid="_ridl_xml_deserializer_8cs">RidlXmlDeserializer.cs</innerfile>
+    <innerfile refid="_xdc_deserializer_8cs">XdcDeserializer.cs</innerfile>
+    <innerfile refid="_xml_deserializer_8cs">XmlDeserializer.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/"/>
+  </compounddef>
+</doxygen>

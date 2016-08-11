@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</compoundname>
+    <basecompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedMember</basecompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_constructor" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeConstructor</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_event" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeEvent</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_field" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeField</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_method" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMethod</derivedcompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a4f53afb1ebe1f04f86a5a60d9e5ec2f1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override bool</type>
+        <definition>override bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember.IsPublic</definition>
+        <argsstring></argsstring>
+        <name>IsPublic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="83" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a95aaa99f6967ee26d410329d1d384b69" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override bool</type>
+        <definition>override bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember.IsPrivate</definition>
+        <argsstring></argsstring>
+        <name>IsPrivate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="93" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a7b98617db0c145b754022f5868f5fb7c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>override bool</type>
+        <definition>override bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember.IsStatic</definition>
+        <argsstring></argsstring>
+        <name>IsStatic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="103" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a07ab4cbe1a463d414f0f111829ca6c8b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def" kindref="compound">MemberDef</ref></type>
+        <definition>MemberDef OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember.UnderlyingMember</definition>
+        <argsstring></argsstring>
+        <name>UnderlyingMember</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="112" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a4248af416898e9d12a6eacbd14985658" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember.NativeMember</definition>
+        <argsstring>(MemberDef memberDef, NativeType parentType)</argsstring>
+        <name>NativeMember</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def" kindref="compound">MemberDef</ref></type>
+          <declname>memberDef</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type" kindref="compound">NativeType</ref></type>
+          <declname>parentType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="13" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="13" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1ac30a85b0e5c86c1b96e7606819e22c5b" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member" kindref="compound">NativeMember</ref></type>
+        <definition>static NativeMember OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember.CreateMember</definition>
+        <argsstring>(MemberDef memberDef, NativeType parentType)</argsstring>
+        <name>CreateMember</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def" kindref="compound">MemberDef</ref></type>
+          <declname>memberDef</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type" kindref="compound">NativeType</ref></type>
+          <declname>parentType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="27" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="27" bodyend="79"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="257">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeEvent</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_event"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="259">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMethod</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_method"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="256">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeConstructor</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_constructor"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="258">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeField</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_field"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="255">
+        <label>DefinedMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member"/>
+      </node>
+      <node id="254">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member"/>
+        <childnode refid="255" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="261">
+        <label>DefinedMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member"/>
+      </node>
+      <node id="260">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeMember</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member"/>
+        <childnode refid="261" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" line="12" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeMember.cs" bodystart="11" bodyend="119"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a60d727ea997e668bc64f637f6a7a4009" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>Content</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1ac30a85b0e5c86c1b96e7606819e22c5b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>CreateMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a75bb54608b2543f60ffc04960d61edf5" prot="public" virt="non-virtual" ambiguityscope="OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedMember."><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>CreateMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aeafc4675a475338de621d9d3e02b8afc" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>DefinedMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a5e7468e595d840d84da9af18ddbe480c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>DefinedMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a8aba164cdfbe53c050ab7f61ea5ac729" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aae7915f602a1d96292bba8aef0232341" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a95aaa99f6967ee26d410329d1d384b69" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>IsPrivate</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a4f53afb1ebe1f04f86a5a60d9e5ec2f1" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>IsPublic</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a7b98617db0c145b754022f5868f5fb7c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>IsStatic</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a31be52c8a33d6fbf5857a4b7d6ecc96d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>Name</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a4248af416898e9d12a6eacbd14985658" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>NativeMember</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1aeb652f37c4242f2ce4ac8c9fcb97cff2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>ParentType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a4585faa41aec3c49050d5ab7aab16a91" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>TopicId</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1a17eb5b01b9276541918b37b2366abd72" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>ToString</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member_1ac1ab14058e837d51610eb9ec2050ae0c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>Type</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member_1a07ab4cbe1a463d414f0f111829ca6c8b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</scope><name>UnderlyingMember</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

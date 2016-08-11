@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</compoundname>
+    <basecompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedType</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type_1aaa60e2a1af74b20ba9528a05277c9adf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_type" kindref="compound">NativeType</ref></type>
+        <definition>NativeType OsgContentPublishing.ReferencePipelineLib.TypeTopology.ProjectedType.UnprojectedType</definition>
+        <argsstring></argsstring>
+        <name>UnprojectedType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/ProjectedType.cs" line="18" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/ProjectedType.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type_1ab3f40fe706318fc2d03f5826fae108fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.ProjectedType.ProjectedType</definition>
+        <argsstring>(ObservableType type)</argsstring>
+        <name>ProjectedType</name>
+        <param>
+          <type>ObservableType</type>
+          <declname>type</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/ProjectedType.cs" line="14" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/ProjectedType.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="311">
+        <label>ManagedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type"/>
+        <childnode refid="312" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="310">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.ProjectedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type"/>
+        <childnode refid="311" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="312">
+        <label>DefinedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="314">
+        <label>ManagedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type"/>
+        <childnode refid="315" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="313">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.ProjectedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type"/>
+        <childnode refid="314" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="315">
+        <label>DefinedType</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/ProjectedType.cs" line="13" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/ProjectedType.cs" bodystart="12" bodyend="28"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a98f7e01149a6540ef06a2a4fac314dba" prot="protected" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>_knownTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a440e19befc5453ed3a82fb497c494baa" prot="protected" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>_members</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a84442e7c70f5b9f591789f47cb142d69" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Attributes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aec2186ea935408f56c99397cb935ef6d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>BaseType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a7713eb8b8a64e0280ccd485bf90557e3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>BaseTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ab702b9c3933999828fbd42ad07f219d7" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>ChildTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a46dd7d3559b2378161ac4187908b3f0e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Content</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ade3cca03a875911332654b8ab1355a35" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>CreateNamespaceType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1af2c168c00035d36b1be0d52ea098662a" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>CreateNewType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a0d8a12797f8f6e4efdd6cd33446f5a71" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>CreateType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a51e03fbc9349b518af788abe7562b4df" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>CreateType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ac1c11302f03553e4f6580a507d8627a8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>CreateType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8d1b88aebe4ab9ea889895452740c884" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a8fdb6e4c78a545b5139bd76f14e5987d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a2e5fc4dea6e67af0ec77b4ebbbd5bd27" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a70cf4b3b5952027189308c4d85f0be00" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ac053af6a9e2dc7d1a53443633b56b5f3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>DefinedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a6eafb542a971c5964598565c1d4a2762" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>DerivedTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ab3486d7860af12a67c43d1b9cf01aff3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>FullName</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a4a8343cb3f9eb64c617b59c32bec1442" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>GenericParameters</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ae0c8402fdb49f53303400a4313afa626" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1acbfe9501a91a71869ea7fbd17967850d" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>InitializeMembers</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa76e2bda86674cf1db6327af02a721d2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Interfaces</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a36869fd7c7ab29a27ccc1a5288be1f1c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsAbstract</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a9f01e8c595dd1aa0ea81040b2f2dfd28" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsAttribute</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a5928b119787c2617535238717248c695" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsClass</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1acc8ac6c2cd731d251387ae09eb03448a" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsDelegate</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a49f6938ef0b0638c08e2c2117859a878" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsEnum</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a0f0e1c04ba95eb01b17a84881a731b07" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsGeneric</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1ae53d7df7fb4009144a3510330b7184e9" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsInterface</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a7e4aef45145f1fd1b9126d2dfff54e1a" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsPublic</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1aff90beb9eace73022fb160a88698d4bd" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsReferenceType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a76607600173a91c593df191d4b85ae82" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsSealed</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1abfb89e242a384b81b07fe55b652ecddf" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsStruct</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1afe7f4590a59db42ba511896158e87015" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>IsValueType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a7db6540b0a2338e1c1a0a7ba7ffafd92" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>KnownTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a866dea2225b0eb24c298691ae7e8f138" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>ManagedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a9aa70abe7d58aa5458680185c43056c9" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>ManagedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1aa7fa4357d924644fd20b68e88ce5ebd6" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Members</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a005e52f7a1f32a25df94986883b3b5b9" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Name</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a09f9eb56f4759784f7279064580eced1" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>Namespace</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1a9e821631632373295d2bbf1b16568148" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>ParentTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type_1ab3f40fe706318fc2d03f5826fae108fa" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>ProjectedType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type_1ab9183c23be8905d78ae0afd38e283fb8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>TopicId</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a92536b70fb34c38582bac158396907c2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>ToString</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type_1a7057fddeffef1e466e9b0df633eb6012" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>UnderlyingType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type_1aaa60e2a1af74b20ba9528a05277c9adf" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</scope><name>UnprojectedType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

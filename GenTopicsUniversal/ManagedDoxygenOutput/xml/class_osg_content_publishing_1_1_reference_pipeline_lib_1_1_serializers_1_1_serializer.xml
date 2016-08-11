@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer" kind="class" prot="public" abstract="yes">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::Serializers::Serializer</compoundname>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Serializers.HtmlSerializer</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Serializers.IntellisenseSerializer</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer_1aae333bcf4c29114ce32c5d05e32bd16d" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>abstract void</type>
+        <definition>abstract void OsgContentPublishing.ReferencePipelineLib.Serializers.Serializer.Initialize</definition>
+        <argsstring>()</argsstring>
+        <name>Initialize</name>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer_1a7b28723c68d1d4705d9dfdac2c2e7b7e">Initialize</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer_1adc5dac2095173133645814bcbb69e457">Initialize</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers/Serializer.cs" line="10" column="1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer_1a17eeb68f150b672e285fafd1a83a2970" prot="protected" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>abstract void</type>
+        <definition>abstract void OsgContentPublishing.ReferencePipelineLib.Serializers.Serializer.Serialize</definition>
+        <argsstring>()</argsstring>
+        <name>Serialize</name>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer_1a337a10ee9d0de6c02f362533d0e8dd2f">Serialize</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer_1a806b4536c46b8bfc2cefa236946a902c">Serialize</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers/Serializer.cs" line="12" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="336">
+        <label>OsgContentPublishing.ReferencePipelineLib.Serializers.Serializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer"/>
+      </node>
+      <node id="338">
+        <label>OsgContentPublishing.ReferencePipelineLib.Serializers.IntellisenseSerializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_intellisense_serializer"/>
+        <childnode refid="336" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="337">
+        <label>OsgContentPublishing.ReferencePipelineLib.Serializers.HtmlSerializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_html_serializer"/>
+        <childnode refid="336" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers/Serializer.cs" line="9" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers/Serializer.cs" bodystart="8" bodyend="13"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer_1aae333bcf4c29114ce32c5d05e32bd16d" prot="public" virt="pure-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Serializers::Serializer</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer_1a17eeb68f150b672e285fafd1a83a2970" prot="protected" virt="pure-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Serializers::Serializer</scope><name>Serialize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

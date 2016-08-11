@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</compoundname>
+    <basecompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Deserializers.XmlDeserializer</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer_1af20835d927a1b8b0b4245e4eee97e037" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.Deserializers.XdcDeserializer.XdcDeserializer</definition>
+        <argsstring>(string inputFolder)</argsstring>
+        <name>XdcDeserializer</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/XdcDeserializer.cs" line="13" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/XdcDeserializer.cs" bodystart="13" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="344">
+        <label>Deserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer"/>
+      </node>
+      <node id="343">
+        <label>XmlDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer"/>
+        <childnode refid="344" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="342">
+        <label>OsgContentPublishing.ReferencePipelineLib.Deserializers.XdcDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer"/>
+        <childnode refid="343" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="347">
+        <label>Deserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer"/>
+      </node>
+      <node id="346">
+        <label>XmlDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer"/>
+        <childnode refid="347" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="345">
+        <label>OsgContentPublishing.ReferencePipelineLib.Deserializers.XdcDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer"/>
+        <childnode refid="346" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/XdcDeserializer.cs" line="12" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/XdcDeserializer.cs" bodystart="11" bodyend="18"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a7975465a68aa487a1fdbe7d25389fe49" prot="public" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</scope><name>Deserialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1a6df5639be395c9bfff2670cf942b3064" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</scope><name>Deserializer</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a8ec1cdc8f086ae8a58214aa9ff8fee24" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1af1abbcae07addcc498536464bffc757c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</scope><name>InputFolder</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer_1af20835d927a1b8b0b4245e4eee97e037" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</scope><name>XdcDeserializer</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a725962a4b5a5717ff0b7502256526588" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</scope><name>XmlDeserializer</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

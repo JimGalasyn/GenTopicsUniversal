@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</compoundname>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedParameter</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeParameter</derivedcompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ae0ed808c98729bea09e57a9582d30a9e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>string</type>
+        <definition>string OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="41" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1aeef50b5a1504dcbdbb045d8e087efec5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kindref="compound">DefinedMember</ref></type>
+        <definition>DefinedMember OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.ParentMethod</definition>
+        <argsstring></argsstring>
+        <name>ParentMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="47" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a6423b2c6913917f4484f140a5f5e4f84" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref></type>
+        <definition>abstract DefinedType OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.Type</definition>
+        <argsstring></argsstring>
+        <name>Type</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="53" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1faf008318dacb00bee5a4aeab2368df" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsArray</definition>
+        <argsstring></argsstring>
+        <name>IsArray</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="58" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a438309abf548df34bd235854cba09838" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsInParam</definition>
+        <argsstring></argsstring>
+        <name>IsInParam</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="63" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a764aef8bba3837b1345c21080cd102b7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsOutParam</definition>
+        <argsstring></argsstring>
+        <name>IsOutParam</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="68" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ab561e1ec146a729710acd56d712bb565" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsOptional</definition>
+        <argsstring></argsstring>
+        <name>IsOptional</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="73" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a634a24d3c358d609baf96b0e1e42b2fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsReturnValue</definition>
+        <argsstring></argsstring>
+        <name>IsReturnValue</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="78" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1adb11a45265f0bd6a17dc8c0d16780c09" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsReference</definition>
+        <argsstring></argsstring>
+        <name>IsReference</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="83" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ab2ffdf5d212f12a5c8561cc05deff7e0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract bool</type>
+        <definition>abstract bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.IsPointer</definition>
+        <argsstring></argsstring>
+        <name>IsPointer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="88" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1aee5b5c6b4a4a684f1ca2def33d43ee72" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>abstract int</type>
+        <definition>abstract int OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.Position</definition>
+        <argsstring></argsstring>
+        <name>Position</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="93" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a5e6b14c6ec813fbba8ab8d5c96434e8e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.DefinedParameter</definition>
+        <argsstring>(ParameterInfo parameterInfo, DefinedMember parentMethod)</argsstring>
+        <name>DefinedParameter</name>
+        <param>
+          <type>ParameterInfo</type>
+          <declname>parameterInfo</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kindref="compound">DefinedMember</ref></type>
+          <declname>parentMethod</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="14" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a7d62447933f561a1a031bf6673636f3d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.DefinedParameter</definition>
+        <argsstring>(Param param, DefinedMember parentMethod)</argsstring>
+        <name>DefinedParameter</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param" kindref="compound">Param</ref></type>
+          <declname>param</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kindref="compound">DefinedMember</ref></type>
+          <declname>parentMethod</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="32" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="32" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1d6594d745320d032f098cef7bb94d17" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override string</type>
+        <definition>override string OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.ToString</definition>
+        <argsstring>()</argsstring>
+        <name>ToString</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="100" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="100" bodyend="104"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1fcbe6c7ebd517379600538b739fc9c2" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>void</type>
+        <definition>virtual void OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter.Initialize</definition>
+        <argsstring>(ParameterInfo parameterInfo, DefinedMember parentMethod)</argsstring>
+        <name>Initialize</name>
+        <param>
+          <type>ParameterInfo</type>
+          <declname>parameterInfo</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" kindref="compound">DefinedMember</ref></type>
+          <declname>parentMethod</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="19" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="19" bodyend="30"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="51">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Native.NativeParameter</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter"/>
+        <childnode refid="49" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="50">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.Managed.ManagedParameter</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter"/>
+        <childnode refid="49" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="49">
+        <label>OsgContentPublishing.ReferencePipelineLib.TypeTopology.DefinedParameter</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter"/>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" line="13" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/DefinedParameter.cs" bodystart="12" bodyend="106"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a5e6b14c6ec813fbba8ab8d5c96434e8e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>DefinedParameter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a7d62447933f561a1a031bf6673636f3d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>DefinedParameter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1fcbe6c7ebd517379600538b739fc9c2" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1faf008318dacb00bee5a4aeab2368df" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsArray</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a438309abf548df34bd235854cba09838" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsInParam</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ab561e1ec146a729710acd56d712bb565" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsOptional</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a764aef8bba3837b1345c21080cd102b7" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsOutParam</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ab2ffdf5d212f12a5c8561cc05deff7e0" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsPointer</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1adb11a45265f0bd6a17dc8c0d16780c09" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsReference</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a634a24d3c358d609baf96b0e1e42b2fb" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>IsReturnValue</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1ae0ed808c98729bea09e57a9582d30a9e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>Name</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1aeef50b5a1504dcbdbb045d8e087efec5" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>ParentMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1aee5b5c6b4a4a684f1ca2def33d43ee72" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>Position</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a1d6594d745320d032f098cef7bb94d17" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>ToString</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter_1a6423b2c6913917f4484f140a5f5e4f84" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</scope><name>Type</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</compoundname>
+    <basecompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Deserializers.XmlDeserializer</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1aff979114f0b48f0db8d044ab51c57fb9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="yes" protectedsettable="no">
+        <type>string</type>
+        <definition>string OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.WinmdPath</definition>
+        <argsstring></argsstring>
+        <name>WinmdPath</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="30" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a97474aefddbe59dc342a63a0778e3862" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>XDocument</type>
+        <definition>XDocument OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.Index</definition>
+        <argsstring></argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="64" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1af1c787fff894a4912c73a72876d329e4" prot="private" static="yes" mutable="no">
+        <type>XDocument</type>
+        <definition>XDocument OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.indexDocument</definition>
+        <argsstring></argsstring>
+        <name>indexDocument</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="184" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="184" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1aaba8ed88029f281ed77c2205f7a850a9" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.indexFilename</definition>
+        <argsstring></argsstring>
+        <name>indexFilename</name>
+        <initializer>= &quot;index.xml&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="185" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="185" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a740be765cc8a150b960219c4e632da12" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.RidlXmlDeserializer</definition>
+        <argsstring>(string inputFolder, string winmdPath)</argsstring>
+        <name>RidlXmlDeserializer</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>winmdPath</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="19" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="19" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a18fe893c6c167e119579477e6942f5db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override Dictionary&lt; string, <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">TypeTopology.DefinedType</ref> &gt;</type>
+        <definition>override Dictionary&lt;string, TypeTopology.DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.Deserialize</definition>
+        <argsstring>()</argsstring>
+        <name>Deserialize</name>
+        <reimplements refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1ae70b83a91dc3e10be85c7de0146cad48">Deserialize</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="32" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="32" bodyend="51"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a58d6946831da08ce5d5bb1f180b92afa" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override void</type>
+        <definition>override void OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.Initialize</definition>
+        <argsstring>()</argsstring>
+        <name>Initialize</name>
+        <reimplements refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1a98e1493c164324c9cba7c4e5cd51a965">Initialize</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="53" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="53" bodyend="55"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a454a2493a47cddc58d0c9bdcd242cf60" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>XDocument</type>
+        <definition>XDocument OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.LoadIndex</definition>
+        <argsstring>()</argsstring>
+        <name>LoadIndex</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="57" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="57" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a3025b418afbad31391fbc9db3f786843" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref> &gt;</type>
+        <definition>List&lt;DoxygenType&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.LoadNativeTypes</definition>
+        <argsstring>(string xmlFolder)</argsstring>
+        <name>LoadNativeTypes</name>
+        <param>
+          <type>string</type>
+          <declname>xmlFolder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="78" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="78" bodyend="108"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1ad84d703fa24087bc0f1da82c67467e36" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; ObservableType &gt;</type>
+        <definition>List&lt;ObservableType&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.LoadManagedTypes</definition>
+        <argsstring>(string winmdPath)</argsstring>
+        <name>LoadManagedTypes</name>
+        <param>
+          <type>string</type>
+          <declname>winmdPath</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="110" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="110" bodyend="130"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a9e064efbbed440457d1cb69df53e169f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; string &gt;</type>
+        <definition>List&lt;string&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.GetBNamespaces</definition>
+        <argsstring>(Assembly assembly)</argsstring>
+        <name>GetBNamespaces</name>
+        <param>
+          <type>Assembly</type>
+          <declname>assembly</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="132" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="132" bodyend="147"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a95e77cff5c00c0e6423c113a1527eecd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; ObservableType &gt;</type>
+        <definition>List&lt;ObservableType&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.GetTypesInNamespace</definition>
+        <argsstring>(string ns, Assembly metadataAssembly)</argsstring>
+        <name>GetTypesInNamespace</name>
+        <param>
+          <type>string</type>
+          <declname>ns</declname>
+        </param>
+        <param>
+          <type>Assembly</type>
+          <declname>metadataAssembly</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="149" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="149" bodyend="154"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a45e220f24c22a7709acd6d20fb3503e4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; ObservableType &gt;</type>
+        <definition>List&lt;ObservableType&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.GetTypesInNamespace</definition>
+        <argsstring>(string ns, List&lt; ObservableType &gt; allTypes)</argsstring>
+        <name>GetTypesInNamespace</name>
+        <param>
+          <type>string</type>
+          <declname>ns</declname>
+        </param>
+        <param>
+          <type>List&lt; ObservableType &gt;</type>
+          <declname>allTypes</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="156" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="156" bodyend="161"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1abcf35575000febd5ec09cb1138fb83de" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; ObservableType &gt;</type>
+        <definition>List&lt;ObservableType&gt; OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer.GetObservableTypes</definition>
+        <argsstring>(Assembly metadataAssembly)</argsstring>
+        <name>GetObservableTypes</name>
+        <param>
+          <type>Assembly</type>
+          <declname>metadataAssembly</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="163" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="163" bodyend="178"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="332">
+        <label>Deserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer"/>
+      </node>
+      <node id="331">
+        <label>XmlDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer"/>
+        <childnode refid="332" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="330">
+        <label>OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer"/>
+        <childnode refid="331" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="335">
+        <label>Deserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer"/>
+      </node>
+      <node id="334">
+        <label>XmlDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer"/>
+        <childnode refid="335" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="333">
+        <label>OsgContentPublishing.ReferencePipelineLib.Deserializers.RidlXmlDeserializer</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer"/>
+        <childnode refid="334" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" line="18" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/RidlXmlDeserializer.cs" bodystart="17" bodyend="186"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a18fe893c6c167e119579477e6942f5db" prot="public" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>Deserialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1a6df5639be395c9bfff2670cf942b3064" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>Deserializer</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a9e064efbbed440457d1cb69df53e169f" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>GetBNamespaces</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1abcf35575000febd5ec09cb1138fb83de" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>GetObservableTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a95e77cff5c00c0e6423c113a1527eecd" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>GetTypesInNamespace</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a45e220f24c22a7709acd6d20fb3503e4" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>GetTypesInNamespace</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a97474aefddbe59dc342a63a0778e3862" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>Index</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1af1c787fff894a4912c73a72876d329e4" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>indexDocument</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1aaba8ed88029f281ed77c2205f7a850a9" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>indexFilename</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a58d6946831da08ce5d5bb1f180b92afa" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer_1af1abbcae07addcc498536464bffc757c" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>InputFolder</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a454a2493a47cddc58d0c9bdcd242cf60" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>LoadIndex</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1ad84d703fa24087bc0f1da82c67467e36" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>LoadManagedTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a3025b418afbad31391fbc9db3f786843" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>LoadNativeTypes</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1a740be765cc8a150b960219c4e632da12" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>RidlXmlDeserializer</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer_1aff979114f0b48f0db8d044ab51c57fb9" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>WinmdPath</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer_1a725962a4b5a5717ff0b7502256526588" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</scope><name>XmlDeserializer</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

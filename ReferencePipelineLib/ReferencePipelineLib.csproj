@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE93A7A3-9153-4EBE-B576-43FD079A956D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OsgContentPublishing.ReferencePipelineLib</RootNamespace>
+    <AssemblyName>ReferencePipelineLib</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\packages\HtmlAgilityPack.1.4.9\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Deserializers\AssemblyDeserializer.cs" />
+    <Compile Include="Deserializers\GeneratedDeserializer.cs" />
+    <Compile Include="Deserializers\ManagedAssemblyDeserializer.cs" />
+    <Compile Include="Deserializers\ManagedDeserializer.cs" />
+    <Compile Include="Deserializers\NativeDeserializer.cs" />
+    <Compile Include="Deserializers\RidlDeserializer.cs" />
+    <Compile Include="Deserializers\XdcDeserializer.cs" />
+    <Compile Include="Documentation\DocumentationOnlyAttribute.cs" />
+    <Compile Include="Documentation\DocumentationType.cs" />
+    <Compile Include="Pipelines\GeneratedPipeline.cs" />
+    <Compile Include="Pipelines\ManagedAssemblyPipeline.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Deserializers\Deserializer.cs" />
+    <Compile Include="Deserializers\XmlDeserializer.cs" />
+    <Compile Include="Deserializers\DoxygenDeserializer.cs" />
+    <Compile Include="Pipelines\ManagedPipeline.cs" />
+    <Compile Include="Pipelines\NativePipeline.cs" />
+    <Compile Include="Pipelines\Pipeline.cs" />
+    <Compile Include="Serializers\IndexSerializer.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenFunction.cs" />
+    <Compile Include="TypeTopology\Doxygen\ParameterItem.cs" />
+    <Compile Include="TypeTopology\TypeDeclarationParseResults.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyConstructor.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyAttribute.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyClass.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyDelegate.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyEnum.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyEvent.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyField.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyInterface.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyMember.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyMethod.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyNamespace.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyParameter.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyProperty.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyStruct.cs" />
+    <Compile Include="TypeTopology\Assembly\GlobalNamespace.cs" />
+    <Compile Include="TypeTopology\Doxygen\Compound.cs" />
+    <Compile Include="TypeTopology\Doxygen\CompoundRef.cs" />
+    <Compile Include="TypeTopology\Doxygen\Description.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxType.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenClass.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenConstructor.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenDestructor.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenEnum.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenEvent.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenFacadeType.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenField.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenInterface.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenMember.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenMethod.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenNamespace.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenParameter.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenProperty.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenStruct.cs" />
+    <Compile Include="TypeTopology\Doxygen\DoxygenType.cs" />
+    <Compile Include="TypeTopology\Doxygen\EnumValue.cs" />
+    <Compile Include="TypeTopology\Doxygen\GenericParameterType.cs" />
+    <Compile Include="TypeTopology\Doxygen\GlobalNamespace.cs" />
+    <Compile Include="TypeTopology\Doxygen\InnerClass.cs" />
+    <Compile Include="TypeTopology\Doxygen\InnerNamespace.cs" />
+    <Compile Include="TypeTopology\Doxygen\Member.cs" />
+    <Compile Include="TypeTopology\Doxygen\MemberDef.cs" />
+    <Compile Include="TypeTopology\Doxygen\Para.cs" />
+    <Compile Include="TypeTopology\Doxygen\Param.cs" />
+    <Compile Include="TypeTopology\LanguageElement.cs" />
+    <Compile Include="TypeTopology\LanguageElements.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedAssemblyType.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedConstructor.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedType.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedDelegate.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedAttribute.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedClass.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedEnum.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedEvent.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedField.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedInterface.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedMember.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedMethod.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedNamespace.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedParameter.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedProperty.cs" />
+    <Compile Include="TypeTopology\Managed\ManagedStruct.cs" />
+    <Compile Include="TypeTopology\Native\NativeClass.cs" />
+    <Compile Include="TypeTopology\Native\NativeConstructor.cs" />
+    <Compile Include="TypeTopology\Native\NativeEvent.cs" />
+    <Compile Include="TypeTopology\Native\NativeField.cs" />
+    <Compile Include="TypeTopology\Native\NativeInterface.cs" />
+    <Compile Include="TypeTopology\Native\NativeEnum.cs" />
+    <Compile Include="TypeTopology\Native\NativeMember.cs" />
+    <Compile Include="TypeTopology\Native\NativeMethod.cs" />
+    <Compile Include="TypeTopology\Native\NativeNamespace.cs" />
+    <Compile Include="TypeTopology\Native\NativeParameter.cs" />
+    <Compile Include="TypeTopology\Native\NativeStruct.cs" />
+    <Compile Include="TypeTopology\Native\NativeType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pipelines\RidlPipeline.cs" />
+    <Compile Include="Serializers\HtmlSerializer.cs" />
+    <Compile Include="Serializers\IntellisenseSerializer.cs" />
+    <Compile Include="Serializers\Serializer.cs" />
+    <Compile Include="TypeTopology\DefinedMember.cs" />
+    <Compile Include="TypeTopology\DefinedParameter.cs" />
+    <Compile Include="TypeTopology\DefinedType.cs" />
+    <Compile Include="TypeTopology\FacadeType.cs" />
+    <Compile Include="TypeTopology\Assembly\AssemblyType.cs" />
+    <Compile Include="TypeTopology\PrimitiveType.cs" />
+    <Compile Include="TypeTopology\PrimitiveTypes.cs" />
+    <Compile Include="TypeTopology\Projected\ProjectedNamespace.cs" />
+    <Compile Include="TypeTopology\Projected\ProjectedType.cs" />
+    <Compile Include="TypeTopology\ReferenceContent.cs" />
+    <Compile Include="TypeTopology\SystemTypes.cs" />
+    <Compile Include="TypeTopology\TypeDeclarationParser.cs" />
+    <Compile Include="TypeTopology\TypeFactory.cs" />
+    <Compile Include="TypeTopology\TypeModel.cs" />
+    <Compile Include="TypeTopology\UnknownTypeException.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="XmlSanitizingStream.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EventLogging\EventLogging.csproj">
+      <Project>{1cba1142-4056-4e65-b2ca-ef5145ec29b5}</Project>
+      <Name>EventLogging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReflectionUtilities\ReflectionUtilities.csproj">
+      <Project>{28822914-35ca-43dc-8a41-05e397db2700}</Project>
+      <Name>ReflectionUtilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

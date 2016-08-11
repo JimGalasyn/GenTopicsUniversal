@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_ac275eeca4462a453f8d65bb3e3613b5" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers</compoundname>
+    <innerfile refid="_html_serializer_8cs">HtmlSerializer.cs</innerfile>
+    <innerfile refid="_intellisense_serializer_8cs">IntellisenseSerializer.cs</innerfile>
+    <innerfile refid="_serializer_8cs">Serializer.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers/"/>
+  </compounddef>
+</doxygen>

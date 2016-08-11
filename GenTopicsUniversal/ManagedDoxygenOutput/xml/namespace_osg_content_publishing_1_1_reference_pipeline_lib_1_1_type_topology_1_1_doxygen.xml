@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen</compoundname>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_compound" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Compound</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Description</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_dox_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::DoxType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::DoxygenType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_enum_value" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::EnumValue</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Member</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::MemberDef</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_para" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Para</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_param" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Param</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Compound.cs" line="10" column="1"/>
+  </compounddef>
+</doxygen>

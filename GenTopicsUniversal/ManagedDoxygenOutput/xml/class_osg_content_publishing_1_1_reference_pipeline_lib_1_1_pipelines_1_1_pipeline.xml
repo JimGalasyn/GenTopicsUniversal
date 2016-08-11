@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline" kind="class" prot="public" abstract="yes">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</compoundname>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline</derivedcompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Pipelines.NativePipeline</derivedcompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a91e6abcb38008e8f9c7feab39258165e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>string</type>
+        <definition>string OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.InputFolder</definition>
+        <argsstring></argsstring>
+        <name>InputFolder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="28" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab5312c273d1841ab9882f57eeac298b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type>string</type>
+        <definition>string OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.OutputFolder</definition>
+        <argsstring></argsstring>
+        <name>OutputFolder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="34" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a55389526dc4f8616b4262931c63168a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer" kindref="compound">Deserializer</ref></type>
+        <definition>Deserializer OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Source</definition>
+        <argsstring></argsstring>
+        <name>Source</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="40" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a9c0559ef5c137bf62677effd1acbed8b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>Dictionary&lt; string, <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" kindref="compound">DefinedType</ref> &gt;</type>
+        <definition>Dictionary&lt;string, DefinedType&gt; OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Types</definition>
+        <argsstring></argsstring>
+        <name>Types</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="46" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a3f2ec5e22bf47bddae0e78dc111ccb0b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>List&lt; <ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer" kindref="compound">Serializer</ref> &gt;</type>
+        <definition>List&lt;Serializer&gt; OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Destinations</definition>
+        <argsstring></argsstring>
+        <name>Destinations</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="57" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ac4123b7c6087ed1d029b842c249e1cce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="yes">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers_1_1_serializer" kindref="compound">Serializer</ref></type>
+        <definition>Serializer OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Destination</definition>
+        <argsstring></argsstring>
+        <name>Destination</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="68" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aedf3d473d88dfb54c3fb412d67fcc125" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Pipeline</definition>
+        <argsstring>(string inputFolder, string outputFolder)</argsstring>
+        <name>Pipeline</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>outputFolder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="15" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="15" bodyend="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a52ccfbbe10da2941f7b47b83358f8716" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Pipeline</definition>
+        <argsstring>(string inputFolder, List&lt; string &gt; outputFolders)</argsstring>
+        <name>Pipeline</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>List&lt; string &gt;</type>
+          <declname>outputFolders</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="22" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="22" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a66af6bd0c784c0ce4c7d395c84ed01d0" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>abstract void</type>
+        <definition>abstract void OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Generate</definition>
+        <argsstring>()</argsstring>
+        <name>Generate</name>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline_1ab999b874c31463370f5c1962687eeac2">Generate</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1ae83b1928717f04e112f9b2ff2770a2c4">Generate</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1a80686541e47e4f84de28674e1d286053">Generate</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="75" column="1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aee39b4fe8e726ab112c19747d526372b" prot="protected" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>abstract void</type>
+        <definition>abstract void OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.Initialize</definition>
+        <argsstring>()</argsstring>
+        <name>Initialize</name>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline_1a5284b66a92cd99316cc1d8ba75fb49ab">Initialize</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a5b5ecfe663c2bf6a060b8d9cf09c9636">Initialize</reimplementedby>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1ae80f6c44c9a13f12c8e1dd82e302011b">Initialize</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="77" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ad939b2cd948f276ce5a47811b15d6062" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>void</type>
+        <definition>virtual void OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.ValidateInputs</definition>
+        <argsstring>(string inputFolder, string outputFolder)</argsstring>
+        <name>ValidateInputs</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>outputFolder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="79" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="79" bodyend="92"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab77dba504880f50911c3debf6c997b06" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>void</type>
+        <definition>virtual void OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline.ValidateInputs</definition>
+        <argsstring>(string inputFolder, List&lt; string &gt; outputFolders)</argsstring>
+        <name>ValidateInputs</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>List&lt; string &gt;</type>
+          <declname>outputFolders</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="94" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="94" bodyend="110"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="304">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline"/>
+        <childnode refid="303" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="306">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.NativePipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_native_pipeline"/>
+        <childnode refid="303" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="305">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.RidlPipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline"/>
+        <childnode refid="304" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="303">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline"/>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" line="14" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/Pipeline.cs" bodystart="13" bodyend="111"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ac4123b7c6087ed1d029b842c249e1cce" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Destination</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a3f2ec5e22bf47bddae0e78dc111ccb0b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Destinations</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a66af6bd0c784c0ce4c7d395c84ed01d0" prot="public" virt="pure-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Generate</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aee39b4fe8e726ab112c19747d526372b" prot="protected" virt="pure-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a91e6abcb38008e8f9c7feab39258165e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>InputFolder</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab5312c273d1841ab9882f57eeac298b8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>OutputFolder</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aedf3d473d88dfb54c3fb412d67fcc125" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Pipeline</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a52ccfbbe10da2941f7b47b83358f8716" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Pipeline</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a55389526dc4f8616b4262931c63168a6" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Source</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a9c0559ef5c137bf62677effd1acbed8b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>Types</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ad939b2cd948f276ce5a47811b15d6062" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>ValidateInputs</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab77dba504880f50911c3debf6c997b06" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::Pipeline</scope><name>ValidateInputs</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

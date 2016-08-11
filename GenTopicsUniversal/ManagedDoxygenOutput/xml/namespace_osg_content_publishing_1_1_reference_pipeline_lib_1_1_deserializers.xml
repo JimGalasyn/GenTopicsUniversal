@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::Deserializers</compoundname>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_deserializer" prot="public">OsgContentPublishing::ReferencePipelineLib::Deserializers::Deserializer</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_doxygen_deserializer" prot="public">OsgContentPublishing::ReferencePipelineLib::Deserializers::DoxygenDeserializer</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_ridl_xml_deserializer" prot="public">OsgContentPublishing::ReferencePipelineLib::Deserializers::RidlXmlDeserializer</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xdc_deserializer" prot="public">OsgContentPublishing::ReferencePipelineLib::Deserializers::XdcDeserializer</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers_1_1_xml_deserializer" prot="public">OsgContentPublishing::ReferencePipelineLib::Deserializers::XmlDeserializer</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers/Deserializer.cs" line="8" column="1"/>
+  </compounddef>
+</doxygen>

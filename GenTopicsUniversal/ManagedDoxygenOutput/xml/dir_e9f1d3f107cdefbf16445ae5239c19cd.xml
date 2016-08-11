@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_e9f1d3f107cdefbf16445ae5239c19cd" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen</compoundname>
+    <innerfile refid="_compound_8cs">Compound.cs</innerfile>
+    <innerfile refid="_description_8cs">Description.cs</innerfile>
+    <innerfile refid="_dox_type_8cs">DoxType.cs</innerfile>
+    <innerfile refid="_doxygen_type_8cs">DoxygenType.cs</innerfile>
+    <innerfile refid="_enum_value_8cs">EnumValue.cs</innerfile>
+    <innerfile refid="_member_8cs">Member.cs</innerfile>
+    <innerfile refid="_member_def_8cs">MemberDef.cs</innerfile>
+    <innerfile refid="_para_8cs">Para.cs</innerfile>
+    <innerfile refid="_param_8cs">Param.cs</innerfile>
+    <innerfile refid="_utilities_8cs">Utilities.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Projected</compoundname>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_1_1_projected_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Projected::ProjectedType</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Projected/ProjectedType.cs" line="11" column="1"/>
+  </compounddef>
+</doxygen>

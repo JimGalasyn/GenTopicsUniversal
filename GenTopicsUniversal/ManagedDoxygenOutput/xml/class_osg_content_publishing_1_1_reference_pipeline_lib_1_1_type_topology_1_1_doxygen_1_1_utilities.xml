@@ -1,0 +1,1345 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a21d4e8d2175073b3e00dcac285d37fab" prot="private" static="no" mutable="no">
+        <type>const char</type>
+        <definition>const char OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.genericCharacter</definition>
+        <argsstring></argsstring>
+        <name>genericCharacter</name>
+        <initializer>= &apos;`&apos;</initializer>
+        <briefdescription>
+<para>Creates a topic ID for the specified type. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>type</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The type to generate the topic ID for.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The topic ID that corresponds with <emphasis>type</emphasis> .</para></simplesect>
+</para><para>Creates a topic ID for the specified member on the specified type. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>mi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The member to generate the topic ID for.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>type</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The type that declares <emphasis>mi</emphasis> .</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The topic ID that corresponds with <emphasis>mi</emphasis> .</para></simplesect>
+</para><para>Creates a topic ID for the specified method on the specified type. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>method</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The method to generate the topic ID for.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>type</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The type that declares <emphasis>method</emphasis> .</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The topic ID that corresponds with <emphasis>method</emphasis> .</para></simplesect>
+</para><para>Creates a topic ID for the specified event on the specified type. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>ei</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The event to generate the topic ID for.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>type</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The type that declares <emphasis>ei</emphasis> .</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The topic ID that corresponds with <emphasis>ei</emphasis> .</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1122" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1122" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae3896c5f985dc2fcce27bde4fba7f3a0" prot="private" static="no" mutable="no">
+        <type>const char</type>
+        <definition>const char OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.referenceCharacter</definition>
+        <argsstring></argsstring>
+        <name>referenceCharacter</name>
+        <initializer>= &apos;&amp;&apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1123" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1123" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a982703112dc7b7efd94738d139a77659" prot="private" static="no" mutable="no">
+        <type>const char</type>
+        <definition>const char OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.separatorCharacter</definition>
+        <argsstring></argsstring>
+        <name>separatorCharacter</name>
+        <initializer>= &apos;_&apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1124" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1124" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a97ba9308cb60dad765c94f100800107f" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.arrayCharacters</definition>
+        <argsstring></argsstring>
+        <name>arrayCharacters</name>
+        <initializer>= &quot;[]&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1125" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1125" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac4e63db3c57d79005178d2454ba1dd73" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.arrayRankWarningFormat</definition>
+        <argsstring></argsstring>
+        <name>arrayRankWarningFormat</name>
+        <initializer>= &quot;WARNING: Parameter {0} has array rank &gt; 2. Markup does not match ABI.&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1126" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a47cb25cdc0845baf07bd8874dd55eb79" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.namespaceIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>namespaceIdStringFormat</name>
+        <initializer>= &quot;N:{0}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1148" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1148" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a28a42cea4ee4229cc03c8b185ae98636" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.typeIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>typeIdStringFormat</name>
+        <initializer>= &quot;T:{0}.{1}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1151" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a368ddf3c17cf6daed4a110d3f65f4e90" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.genericTypeIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>genericTypeIdStringFormat</name>
+        <initializer>= &quot;T:{0}.{1}`{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1154" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac03afd88840baefa7b304dc72dd353db" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.defaultCtorIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>defaultCtorIdStringFormat</name>
+        <initializer>= &quot;M:{0}.{1}.#ctor&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1157" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1157" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab0b98e76a4df3407ef37806b45bd57b5" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.paramsCtorIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>paramsCtorIdStringFormat</name>
+        <initializer>= &quot;M:{0}.{1}.#ctor({2})&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1160" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1160" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a52f8e07cad4e548aace8336da84b81d1" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.overloadedParamsCtorIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>overloadedParamsCtorIdStringFormat</name>
+        <initializer>= &quot;Overload:{0}.{1}.#ctor({2})&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1163" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1163" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa2fabfe2a1b3bf374917203a0fbe8017" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.methodIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>methodIdStringFormat</name>
+        <initializer>= &quot;M:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1166" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a07a459224522659b1895084d3d8393ff" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.paramsMethodIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>paramsMethodIdStringFormat</name>
+        <initializer>= &quot;M:{0}.{1}.{2}({3})&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1169" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1169" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af76d081d5a8d6987813ceda811105f7d" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.overloadedMethodIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>overloadedMethodIdStringFormat</name>
+        <initializer>= &quot;Overload:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1172" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1172" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a975b0359b815ba90f02bc674c5d3414c" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.overloadedParamsMethodIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>overloadedParamsMethodIdStringFormat</name>
+        <initializer>= &quot;Overload:{0}.{1}.{2}({3})&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1175" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1175" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5b948c1c3c6759d31885caf53d39a94b" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.fieldIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>fieldIdStringFormat</name>
+        <initializer>= &quot;F:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1178" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1178" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3ac9f0d9338eaa1330466ee728c13cee" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.constantIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>constantIdStringFormat</name>
+        <initializer>= &quot;F:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1181" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1181" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0b343633398f3b2a48a15552c2242f2b" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.propertyIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>propertyIdStringFormat</name>
+        <initializer>= &quot;P:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1184" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1184" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac9193063e895988f03d3fdb006411d4b" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.eventIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>eventIdStringFormat</name>
+        <initializer>= &quot;E:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1187" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1187" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a29fa356ad90fe6b287c03abb6e227a8e" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.nestedClassIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>nestedClassIdStringFormat</name>
+        <initializer>= &quot;T:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1190" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1190" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a2ba157352b168ee5e03073e3d904220b" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.delegateIdStringFormat</definition>
+        <argsstring></argsstring>
+        <name>delegateIdStringFormat</name>
+        <initializer>= &quot;T:{0}.{1}.{2}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1194" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1194" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aededd96c13beab56a450cb2fca9a9b16" prot="private" static="no" mutable="no">
+        <type>const char</type>
+        <definition>const char OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.commentIdReferenceCharacter</definition>
+        <argsstring></argsstring>
+        <name>commentIdReferenceCharacter</name>
+        <initializer>= &apos;@&apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1196" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1196" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad1e2852d0badb42adf73560804f7bd20" prot="private" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.commentIdGenericParamFormat</definition>
+        <argsstring></argsstring>
+        <name>commentIdGenericParamFormat</name>
+        <initializer>= &quot;`{0}&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1197" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1197" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af5b038f3e14a72bd33087dfa49cd399f" prot="public" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.emptyDescriptionNagString</definition>
+        <argsstring></argsstring>
+        <name>emptyDescriptionNagString</name>
+        <initializer>= &quot;TBD&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1130" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1130" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a53600af8d8dfcee008e8b114b53ef059" prot="private" static="yes" mutable="no">
+        <type>string[]</type>
+        <definition>string [] OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.objectMethods</definition>
+        <argsstring></argsstring>
+        <name>objectMethods</name>
+        <initializer>= new string[] { &quot;Equals&quot;, &quot;Finalize&quot;, &quot;GetHashCode&quot;, &quot;GetType&quot;, &quot;MemberwiseClone&quot;, &quot;ToString&quot; }</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1133" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1133" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae89bb73b849093f2aa064548efd1e448" prot="private" static="yes" mutable="no">
+        <type>string[]</type>
+        <definition>string [] OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.enumMethods</definition>
+        <argsstring></argsstring>
+        <name>enumMethods</name>
+        <initializer>= new string[] { &quot;CompareTo&quot;, &quot;HasFlag&quot;, &quot;GetTypeCode&quot; }</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="1136" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="1136" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5e2f6fba6db1b1fbd1e3683226d178ab" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetTypeName</definition>
+        <argsstring>(string fullTypeName)</argsstring>
+        <name>GetTypeName</name>
+        <param>
+          <type>string</type>
+          <declname>fullTypeName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="15" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="15" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a480399eb3e6d4424380feb8c701e8060" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsCppStyleTypeName</definition>
+        <argsstring>(string fullTypeName)</argsstring>
+        <name>IsCppStyleTypeName</name>
+        <param>
+          <type>string</type>
+          <declname>fullTypeName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="37" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a83d0f351b58f0349de3b82e7d9bd2c40" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsCSharpStyleTypeName</definition>
+        <argsstring>(string fullTypeName)</argsstring>
+        <name>IsCSharpStyleTypeName</name>
+        <param>
+          <type>string</type>
+          <declname>fullTypeName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="42" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af7d56367287abc659e4e4118a75f30d2" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetParentNamespaceFull</definition>
+        <argsstring>(string fullTypeName)</argsstring>
+        <name>GetParentNamespaceFull</name>
+        <param>
+          <type>string</type>
+          <declname>fullTypeName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="48" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="48" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a76367fe164ae8d5b7bf4b9338fc8edae" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetParentNamespace</definition>
+        <argsstring>(string fullNamespace)</argsstring>
+        <name>GetParentNamespace</name>
+        <param>
+          <type>string</type>
+          <declname>fullNamespace</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="72" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="72" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae3b7e4de90c5981a18c27aa8aa4761c3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; XElement &gt;</type>
+        <definition>static List&lt;XElement&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetElements</definition>
+        <argsstring>(XDocument xdoc, string elementName)</argsstring>
+        <name>TryGetElements</name>
+        <param>
+          <type>XDocument</type>
+          <declname>xdoc</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="95" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="95" bodyend="112"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a66a6539ae0958df9c7ef0fbb9ee4d751" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>XElement</type>
+        <definition>static XElement OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetElement</definition>
+        <argsstring>(XDocument xdoc, string elementName)</argsstring>
+        <name>TryGetElement</name>
+        <param>
+          <type>XDocument</type>
+          <declname>xdoc</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="114" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="114" bodyend="129"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0f19e777b2b7e6342bbd246d896286d6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetElementValue</definition>
+        <argsstring>(XDocument xdoc, string elementName)</argsstring>
+        <name>TryGetElementValue</name>
+        <param>
+          <type>XDocument</type>
+          <declname>xdoc</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="131" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="131" bodyend="142"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3865597a679ebd228370ce10ce1f9a8f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; XElement &gt;</type>
+        <definition>static List&lt;XElement&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetChildElements</definition>
+        <argsstring>(XElement parentElement, string elementName)</argsstring>
+        <name>GetChildElements</name>
+        <param>
+          <type>XElement</type>
+          <declname>parentElement</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="145" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="145" bodyend="150"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0aff065ccaf12d6e4a396f4a6e4705b6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; XElement &gt;</type>
+        <definition>static List&lt;XElement&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetElements</definition>
+        <argsstring>(XDocument xdoc, string elementName)</argsstring>
+        <name>GetElements</name>
+        <param>
+          <type>XDocument</type>
+          <declname>xdoc</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="152" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="152" bodyend="157"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a11dc0dde7870d2c59428398516573371" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>XElement</type>
+        <definition>static XElement OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetChildElement</definition>
+        <argsstring>(XElement parentElement, string elementName)</argsstring>
+        <name>GetChildElement</name>
+        <param>
+          <type>XElement</type>
+          <declname>parentElement</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="159" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="159" bodyend="173"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3b2cac7c470f0ade3ab0e64327fa725d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetChildElementValue</definition>
+        <argsstring>(XElement parentElement, string elementName)</argsstring>
+        <name>TryGetChildElementValue</name>
+        <param>
+          <type>XElement</type>
+          <declname>parentElement</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="175" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="175" bodyend="186"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aad26fad36b2177eeb5a9d789c8ccb239" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>XElement</type>
+        <definition>static XElement OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetChildElement</definition>
+        <argsstring>(XElement parentElement, string elementName)</argsstring>
+        <name>TryGetChildElement</name>
+        <param>
+          <type>XElement</type>
+          <declname>parentElement</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="188" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="188" bodyend="202"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a948c92b0919453bb34ffcde434755d26" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; XElement &gt;</type>
+        <definition>static List&lt;XElement&gt; OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetChildElements</definition>
+        <argsstring>(XElement parentElement, string elementName)</argsstring>
+        <name>TryGetChildElements</name>
+        <param>
+          <type>XElement</type>
+          <declname>parentElement</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>elementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="204" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="204" bodyend="218"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa526d2408ec95702e866a1b2099ee692" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetAttributeValue</definition>
+        <argsstring>(XElement element, string attributeName)</argsstring>
+        <name>TryGetAttributeValue</name>
+        <param>
+          <type>XElement</type>
+          <declname>element</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>attributeName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="221" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="221" bodyend="232"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aaf388d4add0785e7e0fecfa94f51b446" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>XAttribute</type>
+        <definition>static XAttribute OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TryGetAttribute</definition>
+        <argsstring>(XElement element, string attributeName)</argsstring>
+        <name>TryGetAttribute</name>
+        <param>
+          <type>XElement</type>
+          <declname>element</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>attributeName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="234" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="234" bodyend="248"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a14c5e1876a15d104e35db073c15d249f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.ParseYesNo</definition>
+        <argsstring>(string yesNoString)</argsstring>
+        <name>ParseYesNo</name>
+        <param>
+          <type>string</type>
+          <declname>yesNoString</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="250" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="250" bodyend="269"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a402a5351cc9cd6967d47e2aa6a2c3c16" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.ParseVirt</definition>
+        <argsstring>(string virtString)</argsstring>
+        <name>ParseVirt</name>
+        <param>
+          <type>string</type>
+          <declname>virtString</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="271" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="271" bodyend="286"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a898f5313bc5f174eb85e6e3f4ddc3d50" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetDescriptionString</definition>
+        <argsstring>(Description briefDescription, Description detailedDescription)</argsstring>
+        <name>GetDescriptionString</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+          <declname>briefDescription</declname>
+        </param>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+          <declname>detailedDescription</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="288" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="288" bodyend="315"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3d8587f715f861f8e0a358574f9cba07" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetBriefDescription</definition>
+        <argsstring>(XDocument doc)</argsstring>
+        <name>GetBriefDescription</name>
+        <param>
+          <type>XDocument</type>
+          <declname>doc</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="323" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="323" bodyend="326"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa8414e47052f03073410e51807618886" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetDetailedDescription</definition>
+        <argsstring>(XDocument doc)</argsstring>
+        <name>GetDetailedDescription</name>
+        <param>
+          <type>XDocument</type>
+          <declname>doc</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="328" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="328" bodyend="331"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad01c86aad111ed480b1dd923aec155e5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetBriefDescription</definition>
+        <argsstring>(XElement memberDefElement)</argsstring>
+        <name>GetBriefDescription</name>
+        <param>
+          <type>XElement</type>
+          <declname>memberDefElement</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="346" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="346" bodyend="349"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a7d55c6da8e516491b48cc0acdb73a6ec" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetDetailedDescription</definition>
+        <argsstring>(XElement memberDefElement)</argsstring>
+        <name>GetDetailedDescription</name>
+        <param>
+          <type>XElement</type>
+          <declname>memberDefElement</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="351" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="351" bodyend="354"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0982f0ec21434359768990d060c8d724" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetInBodyDescription</definition>
+        <argsstring>(XElement memberDefElement)</argsstring>
+        <name>GetInBodyDescription</name>
+        <param>
+          <type>XElement</type>
+          <declname>memberDefElement</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="356" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="356" bodyend="359"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af8382bf4e17666c66a2b2eeffff2feea" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.TranscribeKind</definition>
+        <argsstring>(MemberInfo mi)</argsstring>
+        <name>TranscribeKind</name>
+        <param>
+          <type>MemberInfo</type>
+          <declname>mi</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="373" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="373" bodyend="437"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae2f0f71a18de4a148fc8df5edc6c4ea2" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetMarkdownLink</definition>
+        <argsstring>(DoxygenType doxType)</argsstring>
+        <name>GetMarkdownLink</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="594" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="594" bodyend="599"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a65c3de7e5605a63c0501493270e35e69" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetAnchor</definition>
+        <argsstring>(DoxygenType doxType)</argsstring>
+        <name>GetAnchor</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="601" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="601" bodyend="607"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab95c38100e5de559abe81c8e7e3d66e3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetSectionId</definition>
+        <argsstring>(DoxygenType doxType)</argsstring>
+        <name>GetSectionId</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="609" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="609" bodyend="614"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3be816fd42801d2b79bacbbacb21a470" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetSectionId</definition>
+        <argsstring>(MemberDef member)</argsstring>
+        <name>GetSectionId</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_member_def" kindref="compound">MemberDef</ref></type>
+          <declname>member</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="616" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="616" bodyend="622"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a97bb63ce93219db1d56b9272f476b446" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetUndecoratedName</definition>
+        <argsstring>(string applies)</argsstring>
+        <name>GetUndecoratedName</name>
+        <param>
+          <type>string</type>
+          <declname>applies</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="805" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="805" bodyend="830"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a842a0d0428b4f0c22a507c913c0ebb93" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.FilterEnumMethods</definition>
+        <argsstring>(DoxygenType doxType)</argsstring>
+        <name>FilterEnumMethods</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="832" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="832" bodyend="842"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aff4c0b0b3426c5899090aa4a9343ffe8" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.FilterObjectMethods</definition>
+        <argsstring>(DoxygenType doxType)</argsstring>
+        <name>FilterObjectMethods</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="845" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="845" bodyend="852"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad7f4dc2f596caade4818ed9c302f4859" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.FilterAccessorMethods</definition>
+        <argsstring>(DoxygenType doxType)</argsstring>
+        <name>FilterAccessorMethods</name>
+        <param>
+          <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_doxygen_type" kindref="compound">DoxygenType</ref></type>
+          <declname>doxType</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="854" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="854" bodyend="861"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab554813eb79cef72487205157905adaa" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetTopicIdForNamespce</definition>
+        <argsstring>(string ns)</argsstring>
+        <name>GetTopicIdForNamespce</name>
+        <param>
+          <type>string</type>
+          <declname>ns</declname>
+        </param>
+        <briefdescription>
+<para>Creates a topic ID for the specified namespace. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>ns</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The namespace to generate the topic ID for.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The topic ID that corresponds with <emphasis>ns</emphasis> .</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="960" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="960" bodyend="965"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a83448767970a2a6adfa7d11389a2b914" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetDescription</definition>
+        <argsstring>(XDocument doc, string descElementName)</argsstring>
+        <name>GetDescription</name>
+        <param>
+          <type>XDocument</type>
+          <declname>doc</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>descElementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="333" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="333" bodyend="344"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3547d4425aa5a4d7a55a29fb773eba13" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_description" kindref="compound">Description</ref></type>
+        <definition>static Description OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.GetDescription</definition>
+        <argsstring>(XElement memberDefElement, string descElementName)</argsstring>
+        <name>GetDescription</name>
+        <param>
+          <type>XElement</type>
+          <declname>memberDefElement</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>descElementName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="361" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="361" bodyend="371"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a7d71a2d17ffee08d25e53bf4df21eb31" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsAccessorMethod</definition>
+        <argsstring>(string methodName)</argsstring>
+        <name>IsAccessorMethod</name>
+        <param>
+          <type>string</type>
+          <declname>methodName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="863" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="863" bodyend="867"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a30ce970bb98e5d32432c8c066c3f69c4" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsPropertyAccessorMethod</definition>
+        <argsstring>(string methodName)</argsstring>
+        <name>IsPropertyAccessorMethod</name>
+        <param>
+          <type>string</type>
+          <declname>methodName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="869" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="869" bodyend="874"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5bd47b622927062c857da0385db09783" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsGetAccessorMethod</definition>
+        <argsstring>(string methodName)</argsstring>
+        <name>IsGetAccessorMethod</name>
+        <param>
+          <type>string</type>
+          <declname>methodName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="876" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="876" bodyend="879"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1afe0deb2d35c38ef06cf2f2116b0ea8ef" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsPutAccessorMethod</definition>
+        <argsstring>(string methodName)</argsstring>
+        <name>IsPutAccessorMethod</name>
+        <param>
+          <type>string</type>
+          <declname>methodName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="881" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="881" bodyend="885"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab7b9c997b623dbc1ff6d3987d0403480" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsEventAccessorMethod</definition>
+        <argsstring>(string methodName)</argsstring>
+        <name>IsEventAccessorMethod</name>
+        <param>
+          <type>string</type>
+          <declname>methodName</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="887" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="887" bodyend="891"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae92e78bb13d321cf651a7239498af995" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsByRefParameter</definition>
+        <argsstring>(ParameterInfo pi)</argsstring>
+        <name>IsByRefParameter</name>
+        <param>
+          <type>ParameterInfo</type>
+          <declname>pi</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="893" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="893" bodyend="896"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a965adf4c685b50ed3ed541ccf002c840" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsByRefType</definition>
+        <argsstring>(Type type)</argsstring>
+        <name>IsByRefType</name>
+        <param>
+          <type>Type</type>
+          <declname>type</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="898" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="898" bodyend="907"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a6074a8b26322884aef5e8ec8f62962c3" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsArrayType</definition>
+        <argsstring>(Type type)</argsstring>
+        <name>IsArrayType</name>
+        <param>
+          <type>Type</type>
+          <declname>type</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="909" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="909" bodyend="912"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a76436a2166d8792fbffaadfe87e5ad12" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool OsgContentPublishing.ReferencePipelineLib.TypeTopology.Doxygen.Utilities.IsArrayRefType</definition>
+        <argsstring>(Type type)</argsstring>
+        <name>IsArrayRefType</name>
+        <param>
+          <type>Type</type>
+          <declname>type</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="921" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="921" bodyend="926"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" line="14" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen/Utilities.cs" bodystart="13" bodyend="1201"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a97ba9308cb60dad765c94f100800107f" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>arrayCharacters</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac4e63db3c57d79005178d2454ba1dd73" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>arrayRankWarningFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad1e2852d0badb42adf73560804f7bd20" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>commentIdGenericParamFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aededd96c13beab56a450cb2fca9a9b16" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>commentIdReferenceCharacter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3ac9f0d9338eaa1330466ee728c13cee" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>constantIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac03afd88840baefa7b304dc72dd353db" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>defaultCtorIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a2ba157352b168ee5e03073e3d904220b" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>delegateIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af5b038f3e14a72bd33087dfa49cd399f" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>emptyDescriptionNagString</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae89bb73b849093f2aa064548efd1e448" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>enumMethods</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ac9193063e895988f03d3fdb006411d4b" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>eventIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5b948c1c3c6759d31885caf53d39a94b" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>fieldIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad7f4dc2f596caade4818ed9c302f4859" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>FilterAccessorMethods</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a842a0d0428b4f0c22a507c913c0ebb93" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>FilterEnumMethods</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aff4c0b0b3426c5899090aa4a9343ffe8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>FilterObjectMethods</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a21d4e8d2175073b3e00dcac285d37fab" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>genericCharacter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a368ddf3c17cf6daed4a110d3f65f4e90" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>genericTypeIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a65c3de7e5605a63c0501493270e35e69" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetAnchor</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3d8587f715f861f8e0a358574f9cba07" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetBriefDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ad01c86aad111ed480b1dd923aec155e5" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetBriefDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a11dc0dde7870d2c59428398516573371" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetChildElement</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3865597a679ebd228370ce10ce1f9a8f" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetChildElements</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a83448767970a2a6adfa7d11389a2b914" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3547d4425aa5a4d7a55a29fb773eba13" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a898f5313bc5f174eb85e6e3f4ddc3d50" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetDescriptionString</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa8414e47052f03073410e51807618886" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetDetailedDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a7d55c6da8e516491b48cc0acdb73a6ec" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetDetailedDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0aff065ccaf12d6e4a396f4a6e4705b6" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetElements</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0982f0ec21434359768990d060c8d724" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetInBodyDescription</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae2f0f71a18de4a148fc8df5edc6c4ea2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetMarkdownLink</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a76367fe164ae8d5b7bf4b9338fc8edae" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetParentNamespace</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af7d56367287abc659e4e4118a75f30d2" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetParentNamespaceFull</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab95c38100e5de559abe81c8e7e3d66e3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetSectionId</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3be816fd42801d2b79bacbbacb21a470" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetSectionId</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab554813eb79cef72487205157905adaa" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetTopicIdForNamespce</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5e2f6fba6db1b1fbd1e3683226d178ab" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetTypeName</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a97bb63ce93219db1d56b9272f476b446" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>GetUndecoratedName</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a7d71a2d17ffee08d25e53bf4df21eb31" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsAccessorMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a76436a2166d8792fbffaadfe87e5ad12" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsArrayRefType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a6074a8b26322884aef5e8ec8f62962c3" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsArrayType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae92e78bb13d321cf651a7239498af995" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsByRefParameter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a965adf4c685b50ed3ed541ccf002c840" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsByRefType</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a480399eb3e6d4424380feb8c701e8060" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsCppStyleTypeName</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a83d0f351b58f0349de3b82e7d9bd2c40" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsCSharpStyleTypeName</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab7b9c997b623dbc1ff6d3987d0403480" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsEventAccessorMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a5bd47b622927062c857da0385db09783" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsGetAccessorMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a30ce970bb98e5d32432c8c066c3f69c4" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsPropertyAccessorMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1afe0deb2d35c38ef06cf2f2116b0ea8ef" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>IsPutAccessorMethod</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa2fabfe2a1b3bf374917203a0fbe8017" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>methodIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a47cb25cdc0845baf07bd8874dd55eb79" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>namespaceIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a29fa356ad90fe6b287c03abb6e227a8e" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>nestedClassIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a53600af8d8dfcee008e8b114b53ef059" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>objectMethods</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af76d081d5a8d6987813ceda811105f7d" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>overloadedMethodIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a52f8e07cad4e548aace8336da84b81d1" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>overloadedParamsCtorIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a975b0359b815ba90f02bc674c5d3414c" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>overloadedParamsMethodIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ab0b98e76a4df3407ef37806b45bd57b5" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>paramsCtorIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a07a459224522659b1895084d3d8393ff" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>paramsMethodIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a402a5351cc9cd6967d47e2aa6a2c3c16" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>ParseVirt</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a14c5e1876a15d104e35db073c15d249f" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>ParseYesNo</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0b343633398f3b2a48a15552c2242f2b" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>propertyIdStringFormat</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae3896c5f985dc2fcce27bde4fba7f3a0" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>referenceCharacter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a982703112dc7b7efd94738d139a77659" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>separatorCharacter</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1af8382bf4e17666c66a2b2eeffff2feea" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TranscribeKind</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aaf388d4add0785e7e0fecfa94f51b446" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetAttribute</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aa526d2408ec95702e866a1b2099ee692" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetAttributeValue</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1aad26fad36b2177eeb5a9d789c8ccb239" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetChildElement</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a948c92b0919453bb34ffcde434755d26" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetChildElements</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a3b2cac7c470f0ade3ab0e64327fa725d" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetChildElementValue</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a66a6539ae0958df9c7ef0fbb9ee4d751" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetElement</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1ae3b7e4de90c5981a18c27aa8aa4761c3" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetElements</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a0f19e777b2b7e6342bbd246d896286d6" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>TryGetElementValue</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen_1_1_utilities_1a28a42cea4ee4229cc03c8b185ae98636" prot="private" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen::Utilities</scope><name>typeIdStringFormat</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_baed45e50b0f598f819d7aa9631cd4fc" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib</compoundname>
+    <innerdir refid="dir_e9010c657484de97a89965b66d2adc8f">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Deserializers</innerdir>
+    <innerdir refid="dir_bbb6a01ace49d43f257885f5f3049532">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/obj</innerdir>
+    <innerdir refid="dir_2718c59e921b6db017292bfc83eede7c">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines</innerdir>
+    <innerdir refid="dir_995919fd606192cbf846dcd973d23607">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Properties</innerdir>
+    <innerdir refid="dir_ac275eeca4462a453f8d65bb3e3613b5">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Serializers</innerdir>
+    <innerdir refid="dir_b62441800394114c8d6cad3fc47ba88c">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/"/>
+  </compounddef>
+</doxygen>

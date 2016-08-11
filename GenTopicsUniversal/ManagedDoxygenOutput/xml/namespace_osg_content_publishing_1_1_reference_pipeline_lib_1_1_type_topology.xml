@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology</compoundname>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_constructor" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Constructor</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_event" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedEvent</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_field" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedField</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_member" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedMember</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_method" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedMethod</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_parameter" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedParameter</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_property" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedProperty</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_defined_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::DefinedType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_facade_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::FacadeType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::NativeType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_primitive_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::PrimitiveType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::ProjectedType</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_reference_content" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::ReferenceContent</innerclass>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_doxygen">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Doxygen</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_projected">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Projected</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Constructor.cs" line="9" column="1"/>
+  </compounddef>
+</doxygen>

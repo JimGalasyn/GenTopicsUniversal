@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_2718c59e921b6db017292bfc83eede7c" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines</compoundname>
+    <innerfile refid="_managed_pipeline_8cs">ManagedPipeline.cs</innerfile>
+    <innerfile refid="_native_pipeline_8cs">NativePipeline.cs</innerfile>
+    <innerfile refid="_pipeline_8cs">Pipeline.cs</innerfile>
+    <innerfile refid="_ridl_pipeline_8cs">RidlPipeline.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/"/>
+  </compounddef>
+</doxygen>

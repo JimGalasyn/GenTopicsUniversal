@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_9e16bc0ab5328dfb3b1d49484358bd90" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native</compoundname>
+    <innerfile refid="_native_class_8cs">NativeClass.cs</innerfile>
+    <innerfile refid="_native_constructor_8cs">NativeConstructor.cs</innerfile>
+    <innerfile refid="_native_enum_8cs">NativeEnum.cs</innerfile>
+    <innerfile refid="_native_event_8cs">NativeEvent.cs</innerfile>
+    <innerfile refid="_native_field_8cs">NativeField.cs</innerfile>
+    <innerfile refid="_native_interface_8cs">NativeInterface.cs</innerfile>
+    <innerfile refid="_native_member_8cs">NativeMember.cs</innerfile>
+    <innerfile refid="_native_method_8cs">NativeMethod.cs</innerfile>
+    <innerfile refid="_native_namespace_8cs">NativeNamespace.cs</innerfile>
+    <innerfile refid="_native_parameter_8cs">NativeParameter.cs</innerfile>
+    <innerfile refid="_native_struct_8cs">NativeStruct.cs</innerfile>
+    <innerfile refid="_native_2_native_type_8cs">NativeType.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/"/>
+  </compounddef>
+</doxygen>

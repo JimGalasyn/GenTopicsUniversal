@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed</compoundname>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_constructor" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::Constructor</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_attribute" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedAttribute</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_class" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedClass</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_delegate" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedDelegate</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_enum" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedEnum</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_event" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedEvent</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_field" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedField</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_interface" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedInterface</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_member" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedMember</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_method" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedMethod</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_namespace" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedNamespace</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_parameter" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedParameter</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_property" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedProperty</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_struct" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedStruct</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_managed_1_1_managed_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Managed::ManagedType</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed/Constructor.cs" line="9" column="1"/>
+  </compounddef>
+</doxygen>

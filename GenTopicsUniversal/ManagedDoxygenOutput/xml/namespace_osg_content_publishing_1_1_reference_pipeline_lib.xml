@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib</compoundname>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_deserializers">OsgContentPublishing::ReferencePipelineLib::Deserializers</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines">OsgContentPublishing::ReferencePipelineLib::Pipelines</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_properties">OsgContentPublishing::ReferencePipelineLib::Properties</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_serializers">OsgContentPublishing::ReferencePipelineLib::Serializers</innernamespace>
+    <innernamespace refid="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology">OsgContentPublishing::ReferencePipelineLib::TypeTopology</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="[generated]" line="1" column="1"/>
+  </compounddef>
+</doxygen>

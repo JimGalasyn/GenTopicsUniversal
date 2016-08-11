@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="namespace_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native" kind="namespace">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native</compoundname>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_class" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeClass</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_constructor" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeConstructor</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_enum" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeEnum</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_event" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeEvent</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_field" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeField</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_interface" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeInterface</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_member" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMember</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_method" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeMethod</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_namespace" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeNamespace</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_parameter" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeParameter</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_struct" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeStruct</innerclass>
+    <innerclass refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_type_topology_1_1_native_1_1_native_type" prot="public">OsgContentPublishing::ReferencePipelineLib::TypeTopology::Native::NativeType</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native/NativeClass.cs" line="10" column="1"/>
+  </compounddef>
+</doxygen>

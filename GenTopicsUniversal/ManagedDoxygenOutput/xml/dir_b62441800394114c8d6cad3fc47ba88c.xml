@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_b62441800394114c8d6cad3fc47ba88c" kind="dir">
+    <compoundname>C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology</compoundname>
+    <innerdir refid="dir_e9f1d3f107cdefbf16445ae5239c19cd">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Doxygen</innerdir>
+    <innerdir refid="dir_fbcc325b96b4c8057029314fc660d847">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Managed</innerdir>
+    <innerdir refid="dir_9e16bc0ab5328dfb3b1d49484358bd90">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Native</innerdir>
+    <innerdir refid="dir_9a9172074d551151fb833f48d20bf7d3">C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/Projected</innerdir>
+    <innerfile refid="_constructor_8cs">Constructor.cs</innerfile>
+    <innerfile refid="_defined_event_8cs">DefinedEvent.cs</innerfile>
+    <innerfile refid="_defined_field_8cs">DefinedField.cs</innerfile>
+    <innerfile refid="_defined_member_8cs">DefinedMember.cs</innerfile>
+    <innerfile refid="_defined_method_8cs">DefinedMethod.cs</innerfile>
+    <innerfile refid="_defined_parameter_8cs">DefinedParameter.cs</innerfile>
+    <innerfile refid="_defined_property_8cs">DefinedProperty.cs</innerfile>
+    <innerfile refid="_defined_type_8cs">DefinedType.cs</innerfile>
+    <innerfile refid="_facade_type_8cs">FacadeType.cs</innerfile>
+    <innerfile refid="_native_type_8cs">NativeType.cs</innerfile>
+    <innerfile refid="_primitive_type_8cs">PrimitiveType.cs</innerfile>
+    <innerfile refid="_projected_type_8cs">ProjectedType.cs</innerfile>
+    <innerfile refid="_reference_content_8cs">ReferenceContent.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/TypeTopology/"/>
+  </compounddef>
+</doxygen>

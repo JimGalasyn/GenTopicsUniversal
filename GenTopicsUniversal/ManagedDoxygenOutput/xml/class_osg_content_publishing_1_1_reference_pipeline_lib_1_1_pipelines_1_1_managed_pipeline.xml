@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline" kind="class" prot="public">
+    <compoundname>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</compoundname>
+    <basecompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Pipelines.Pipeline</basecompoundref>
+    <derivedcompoundref refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline" prot="public" virt="non-virtual">OsgContentPublishing.ReferencePipelineLib.Pipelines.RidlPipeline</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a521bb1962d96fafb2f53951f67fb5edc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline.ManagedPipeline</definition>
+        <argsstring>(string inputFolder, string outputFolder)</argsstring>
+        <name>ManagedPipeline</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>outputFolder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" line="10" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" bodystart="10" bodyend="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a9317845132b198fd94d23fa8e5bc886b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline.ManagedPipeline</definition>
+        <argsstring>(string inputFolder, List&lt; string &gt; outputFolders)</argsstring>
+        <name>ManagedPipeline</name>
+        <param>
+          <type>string</type>
+          <declname>inputFolder</declname>
+        </param>
+        <param>
+          <type>List&lt; string &gt;</type>
+          <declname>outputFolders</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" line="15" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1ae83b1928717f04e112f9b2ff2770a2c4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override void</type>
+        <definition>override void OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline.Generate</definition>
+        <argsstring>()</argsstring>
+        <name>Generate</name>
+        <reimplements refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a66af6bd0c784c0ce4c7d395c84ed01d0">Generate</reimplements>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1a80686541e47e4f84de28674e1d286053">Generate</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" line="20" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" bodystart="20" bodyend="23"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a5b5ecfe663c2bf6a060b8d9cf09c9636" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>override void</type>
+        <definition>override void OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline.Initialize</definition>
+        <argsstring>()</argsstring>
+        <name>Initialize</name>
+        <reimplements refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aee39b4fe8e726ab112c19747d526372b">Initialize</reimplements>
+        <reimplementedby refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline_1ae80f6c44c9a13f12c8e1dd82e302011b">Initialize</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" line="25" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" bodystart="25" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="183">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline"/>
+        <childnode refid="184" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="185">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.RidlPipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_ridl_pipeline"/>
+        <childnode refid="183" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="184">
+        <label>Pipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="186">
+        <label>OsgContentPublishing.ReferencePipelineLib.Pipelines.ManagedPipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline"/>
+        <childnode refid="187" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="187">
+        <label>Pipeline</label>
+        <link refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" line="9" column="1" bodyfile="C:/Users/jgalasyn.REDMOND/Documents/Visual Studio 2013/Projects/GenTopicsUniversal/ReferencePipelineLib/Pipelines/ManagedPipeline.cs" bodystart="8" bodyend="28"/>
+    <listofallmembers>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ac4123b7c6087ed1d029b842c249e1cce" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Destination</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a3f2ec5e22bf47bddae0e78dc111ccb0b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Destinations</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1ae83b1928717f04e112f9b2ff2770a2c4" prot="public" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Generate</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a5b5ecfe663c2bf6a060b8d9cf09c9636" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Initialize</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a91e6abcb38008e8f9c7feab39258165e" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>InputFolder</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a521bb1962d96fafb2f53951f67fb5edc" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>ManagedPipeline</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_managed_pipeline_1a9317845132b198fd94d23fa8e5bc886b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>ManagedPipeline</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab5312c273d1841ab9882f57eeac298b8" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>OutputFolder</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1aedf3d473d88dfb54c3fb412d67fcc125" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Pipeline</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a52ccfbbe10da2941f7b47b83358f8716" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Pipeline</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a55389526dc4f8616b4262931c63168a6" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Source</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1a9c0559ef5c137bf62677effd1acbed8b" prot="public" virt="non-virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>Types</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ad939b2cd948f276ce5a47811b15d6062" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>ValidateInputs</name></member>
+      <member refid="class_osg_content_publishing_1_1_reference_pipeline_lib_1_1_pipelines_1_1_pipeline_1ab77dba504880f50911c3debf6c997b06" prot="protected" virt="virtual"><scope>OsgContentPublishing::ReferencePipelineLib::Pipelines::ManagedPipeline</scope><name>ValidateInputs</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
