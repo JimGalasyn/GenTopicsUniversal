@@ -53,8 +53,8 @@ namespace OsgContentPublishing.GenTopicsUniversal.Documentation
         /// Language (WDCML) schema.</para>
         /// <para>GenTopics enumerates all of the public types in windows.winmd 
         /// and emits topics that writers author into later. These topics are stored 
-        /// in the OSG CPub source depot (SD) repository, and writers author content 
-        /// into them by using XMetaL. Writers are required to keep the SD topics in sync 
+        /// in source repository, and writers author content into them by using XMetaL
+        /// or another XML editor. Writers are required to keep the SD topics in sync 
         /// with source code changes manually, which is time-consuming and error-prone.
         /// GenTopics is limited to reading only winmd (Windows metadata) files and 
         /// generating only WDCML topic stubs. </para>

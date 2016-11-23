@@ -52,7 +52,7 @@ namespace OsgContentPublishing.GenTopicsUniversal.Documentation
         /// <para>Use "///" to start code comments that you want 
         /// to be included in the documentation.</para>
         /// <para>Take advantage of the XML schema elements that managed
-        /// languages support. GTU understands these are tries to render
+        /// languages support. GTU understands these and tries to render
         /// them appropriately.
         /// </para>
         /// </remarks>
